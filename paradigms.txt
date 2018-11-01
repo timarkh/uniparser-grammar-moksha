@@ -756,7 +756,7 @@
   paradigm: Clitics
 
 -paradigm: N-case-front-soft
- -flex: <0>[ь].<.>//<1>.<.>
+ -flex: <0>.[ь]<.>//<1>.<.>
   gramm: 
   paradigm: N-poss-core
  -flex: <0>.<.>
@@ -852,7 +852,7 @@
   gloss: PROL
   regex-prev: .*[кпстфхцчшщ][<>.]*$
   paradigm: N-poss-after-case
- -flex: <0>.екс<.>
+ -flex: <0>.[ь]кс<.>//<0>.екс<.>
   gramm: trans
   gloss: TRANS
   paradigm: N-poss-after-case
@@ -874,7 +874,7 @@
   paradigm: Clitics
 
 -paradigm: N-case-front-j
- -flex: <0>[й].<.>//<1>.<.>
+ -flex: <0>.[й]<.>//<1>.<.>
   gramm: 
   paradigm: N-poss-core
  -flex: <0>.<.>
