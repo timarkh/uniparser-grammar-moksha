@@ -1,0 +1,279 @@
+﻿-lexeme
+ lex: васенце
+ stem: васенце.
+ gramm: NUM,ord
+ paradigm: A-vowel
+ trans_ru: первый
+
+-lexeme
+ lex: ведьгемонь
+ stem: ведьгемон.
+ gramm: NUM
+ paradigm: NUM-front-soft
+ trans_ru: пятьдесят
+
+-lexeme
+ lex: вейхкса
+ stem: вейхкса.//вейхксо.
+ gramm: NUM
+ paradigm: NUM-vowel
+ trans_ru: девять
+
+-lexeme
+ lex: вейхксогемонь
+ stem: вейхксогемон.
+ gramm: NUM
+ paradigm: NUM-front-soft
+ trans_ru: девяносто
+
+-lexeme
+ lex: вете
+ stem: вете.
+ gramm: NUM
+ paradigm: NUM-vowel
+ trans_ru: пять
+
+-lexeme
+ lex: ифке
+ stem: ифке.//ифкя.//ифка.|ифк.//ифка.
+ gramm: NUM
+ paradigm: NUM-vowel
+ trans_ru: один
+
+-lexeme
+ lex: кафкса
+ stem: кафкса.//кафксо.
+ gramm: NUM
+ paradigm: NUM-vowel
+ trans_ru: восемь
+
+-lexeme
+ lex: кафксогемонь
+ stem: кафксогемон.
+ gramm: NUM
+ paradigm: NUM-front-soft
+ trans_ru: восемьдесят
+
+-lexeme
+ lex: кафонц
+ stem: кафонц.
+ gramm: NUM,pair
+ paradigm: NUM-consonant
+ trans_ru: две пары
+
+-lexeme
+ lex: кафта
+ stem: кафта.//кафто.|кафт.//кафто.
+ gramm: NUM
+ paradigm: NUM-vowel
+ trans_ru: два
+
+-lexeme
+ lex: кафтоня
+ stem: кафтоня.
+ gramm: NUM,dim
+ paradigm: NUM-vowel
+ trans_ru: два
+
+-lexeme
+ lex: кафцьке
+ stem: кафцьке.//кафцькя.//кафцька.|кафцьк.//кафцька.
+ gramm: NUM
+ paradigm: NUM-vowel
+ trans_ru: оба, обе
+
+-lexeme
+ lex: кевейхксые
+ stem: кевейхксые.
+ gramm: NUM
+ paradigm: NUM-vowel
+ trans_ru: девятнадцать
+
+-lexeme
+ lex: кеветие
+ stem: кеветие.
+ gramm: NUM
+ paradigm: NUM-vowel
+ trans_ru: пятнадцать
+
+-lexeme
+ lex: кемгафксува
+ stem: кемгафксува.//кемгафксуво.
+ gramm: NUM
+ paradigm: NUM-vowel
+ trans_ru: восемнадцать
+
+-lexeme
+ lex: кемгафтува
+ stem: кемгафтува.//кемгафтуво.
+ gramm: NUM
+ paradigm: NUM-vowel
+ trans_ru: двенадцать
+
+-lexeme
+ lex: кемголмува
+ stem: кемголмува.//кемголмуво.
+ gramm: NUM
+ paradigm: NUM-vowel
+ trans_ru: тринадцать
+
+-lexeme
+ lex: кемготува
+ stem: кемготува.//кемготуво.
+ gramm: NUM
+ paradigm: NUM-vowel
+ trans_ru: шестнадцать
+
+-lexeme
+ lex: кемзисемге
+ stem: кемзисемге.//кемзисемгя.|кемзисемк.//кемзисемг.//кемзисемге.
+ gramm: NUM
+ paradigm: NUM-vowel
+ trans_ru: семнадцать
+
+-lexeme
+ lex: кемнилие
+ stem: кемнилие.
+ gramm: NUM
+ paradigm: NUM-vowel
+ trans_ru: четырнадцать
+
+-lexeme
+ lex: кемонь
+ stem: кемон.
+ gramm: NUM
+ paradigm: NUM-front-soft
+ trans_ru: десять
+
+-lexeme
+ lex: кефкие
+ stem: кефкие.
+ gramm: NUM
+ paradigm: NUM-vowel
+ trans_ru: одиннадцать
+
+-lexeme
+ lex: кодгемонь
+ stem: кодгемон.
+ gramm: NUM
+ paradigm: NUM-front-soft
+ trans_ru: шестьдесят
+
+-lexeme
+ lex: колма
+ stem: колма.|колма.//колмо.
+ gramm: NUM
+ paradigm: NUM-vowel
+ trans_ru: три
+
+-lexeme
+ lex: колмогемонь
+ stem: колмогемон.
+ gramm: NUM
+ paradigm: NUM-front-soft
+ trans_ru: тридцать
+
+-lexeme
+ lex: колмоцьке
+ stem: колмоцьке.//колмоцькя.//колмоцька.|колмоцьк.//колмоцька.
+ gramm: NUM
+ paradigm: NUM-vowel
+ trans_ru: все три, все трое
+
+-lexeme
+ lex: комозце
+ stem: комозце.
+ gramm: NUM,ord
+ paradigm: NUM-vowel
+ trans_ru: двадцатый
+
+-lexeme
+ lex: комсь
+ stem: комс.
+ gramm: NUM
+ paradigm: NUM-front-soft
+ trans_ru: двадцать
+
+-lexeme
+ lex: кота
+ stem: кота.//кото.|кот.//кото.
+ gramm: NUM
+ paradigm: NUM-vowel
+ trans_ru: шесть
+
+-lexeme
+ lex: миллионнай
+ stem: миллионна.|миллионнай.//миллионнайх.
+ gramm: NUM,ord,rus
+ paradigm: NUM-front-j
+ trans_ru: миллионный
+
+-lexeme
+ lex: ниле
+ stem: ниле.
+ gramm: NUM
+ paradigm: NUM-vowel
+ trans_ru: четыре
+
+-lexeme
+ lex: нильгемонь
+ stem: нильгемон.
+ gramm: NUM
+ paradigm: NUM-front-soft
+ trans_ru: сорок
+
+-lexeme
+ lex: омбоце
+ stem: омбоце.
+ gramm: NUM,ord
+ paradigm: A-vowel
+ trans_ru: второй
+
+-lexeme
+ lex: сизгемонь
+ stem: сизгемон.
+ gramm: NUM
+ paradigm: NUM-front-soft
+ trans_ru: семьдесят
+
+-lexeme
+ lex: сисем
+ stem: сисем.|сисем.//сисеп.
+ gramm: NUM
+ paradigm: NUM-consonant
+ trans_ru: семь
+
+-lexeme
+ lex: сяда
+ stem: сяда.//сядо.|сят.//сядо.
+ gramm: NUM
+ paradigm: NUM-vowel
+ trans_ru: сто
+
+-lexeme
+ lex: сядоце
+ stem: сядоце.
+ gramm: NUM
+ paradigm: NUM-vowel
+ trans_ru: сотый
+
+-lexeme
+ lex: триллион
+ stem: триллион.|триллион.//триллиот.
+ gramm: NUM,rus
+ paradigm: NUM-consonant
+ trans_ru: триллион
+
+-lexeme
+ lex: тёжянь
+ stem: тёжян.
+ gramm: NUM
+ paradigm: NUM-front-soft
+ trans_ru: тысяча
+
+-lexeme
+ lex: фкя
+ stem: фкя.//фка.|фк.//фка.//фкя.
+ gramm: NUM
+ paradigm: NUM-vowel
+ trans_ru: один

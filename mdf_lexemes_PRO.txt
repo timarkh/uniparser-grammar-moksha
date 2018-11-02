@@ -1,0 +1,2038 @@
+﻿# Personal pronouns
+
+-lexeme
+ lex: мон
+ stem: мон.
+ gramm: PRO,1,sg,nom
+ paradigm: Clitics
+ trans_ru: я
+
+-lexeme
+ lex: мон
+ stem: монь.
+ gramm: PRO,1,sg,gen
+ paradigm: Clitics
+ trans_ru: я
+
+-lexeme
+ lex: мон
+ stem: мондейне.//тейне.//мондеене.//теене.
+ gramm: PRO,1,sg,dat
+ paradigm: Clitics
+ trans_ru: я
+
+-lexeme
+ lex: мон
+ stem: мондедон.
+ gramm: PRO,1,sg,abl
+ paradigm: Clitics
+ trans_ru: я
+
+-lexeme
+ lex: мон
+ stem: моньцон.
+ gramm: PRO,1,sg,loc
+ paradigm: Clitics
+ trans_ru: я
+
+-lexeme
+ lex: мон
+ stem: моньцтон.
+ gramm: PRO,1,sg,el
+ paradigm: Clitics
+ trans_ru: я
+
+-lexeme
+ lex: мон
+ stem: моньшкан.
+ gramm: PRO,1,sg,comp
+ paradigm: Clitics
+ trans_ru: я
+
+-lexeme
+ lex: мон
+ stem: моньфтомон.
+ gramm: PRO,1,sg,car
+ paradigm: Clitics
+ trans_ru: я
+
+
+-lexeme
+ lex: мон
+ stem: монць.//моньць.
+ gramm: PRO,1,sg,nom,def
+ paradigm: Clitics
+ trans_ru: я
+
+-lexeme
+ lex: мон
+ stem: монцень.
+ gramm: PRO,1,sg,gen,def
+ paradigm: Clitics
+ trans_ru: я
+
+-lexeme
+ lex: мон
+ stem: мондине.
+ gramm: PRO,1,sg,dat,def
+ paradigm: Clitics
+ trans_ru: я
+
+
+
+-lexeme
+ lex: тон
+ stem: тон.
+ gramm: PRO,2,sg,nom
+ paradigm: Clitics
+ trans_ru: ты
+
+-lexeme
+ lex: тон
+ stem: тонь.
+ gramm: PRO,2,sg,gen
+ paradigm: Clitics
+ trans_ru: ты
+
+-lexeme
+ lex: тон
+ stem: тондейть.//тондееть.//тейть.//тееть.
+ gramm: PRO,2,sg,dat
+ paradigm: Clitics
+ trans_ru: ты
+
+-lexeme
+ lex: тон
+ stem: тондедот.
+ gramm: PRO,2,sg,abl
+ paradigm: Clitics
+ trans_ru: ты
+
+-lexeme
+ lex: тон
+ stem: тоньцот.
+ gramm: PRO,2,sg,loc
+ paradigm: Clitics
+ trans_ru: ты
+
+-lexeme
+ lex: тон
+ stem: тоньцтот.
+ gramm: PRO,2,sg,el
+ paradigm: Clitics
+ trans_ru: ты
+
+-lexeme
+ lex: тон
+ stem: тоньшкат.
+ gramm: PRO,2,sg,comp
+ paradigm: Clitics
+ trans_ru: ты
+
+-lexeme
+ lex: тон
+ stem: тоньфтомот.
+ gramm: PRO,2,sg,car
+ paradigm: Clitics
+ trans_ru: ты
+
+
+-lexeme
+ lex: тон
+ stem: тонць.//тоньць.
+ gramm: PRO,2,sg,nom,def
+ paradigm: Clitics
+ trans_ru: ты
+
+-lexeme
+ lex: тон
+ stem: тонцень.
+ gramm: PRO,2,sg,gen,def
+ paradigm: Clitics
+ trans_ru: ты
+
+
+
+
+-lexeme
+ lex: сон
+ stem: сон.
+ gramm: PRO,3,sg,nom
+ paradigm: Clitics
+ trans_ru: он, она, оно
+
+-lexeme
+ lex: сон
+ stem: сонь.
+ gramm: PRO,3,sg,gen
+ paradigm: Clitics
+ trans_ru: он, она, оно
+
+-lexeme
+ lex: сон
+ stem: сондейнза.//сондеенза.//тейнза.//теенза.
+ gramm: PRO,3,sg,dat
+ paradigm: Clitics
+ trans_ru: он, она, оно
+
+-lexeme
+ lex: сон
+ stem: сондедонза.
+ gramm: PRO,3,sg,abl
+ paradigm: Clitics
+ trans_ru: он, она, оно
+
+-lexeme
+ lex: сон
+ stem: соньцонза.
+ gramm: PRO,3,sg,loc
+ paradigm: Clitics
+ trans_ru: он, она, оно
+
+-lexeme
+ lex: сон
+ stem: соньцтонза.
+ gramm: PRO,3,sg,loc,missp
+ paradigm: Clitics
+ trans_ru: он, она, оно
+
+-lexeme
+ lex: сон
+ stem: соньшканза.
+ gramm: PRO,3,sg,comp
+ paradigm: Clitics
+ trans_ru: он, она, оно
+
+-lexeme
+ lex: сон
+ stem: соньфтомонза.
+ gramm: PRO,3,sg,car
+ paradigm: Clitics
+ trans_ru: он, она, оно
+
+
+-lexeme
+ lex: сон
+ stem: сонць.//соньць.
+ gramm: PRO,3,sg,nom,def
+ paradigm: Clitics
+ trans_ru: он, она, оно
+
+-lexeme
+ lex: сон
+ stem: сонцень.
+ gramm: PRO,3,sg,gen,def
+ paradigm: Clitics
+ trans_ru: он, она, оно
+
+-lexeme
+ lex: сон
+ stem: сондиенза.
+ gramm: PRO,3,sg,dat,def
+ paradigm: Clitics
+ trans_ru: он, она, оно
+
+
+
+-lexeme
+ lex: минь
+ stem: минь.
+ gramm: PRO,1,pl,nom
+ paradigm: Clitics
+ trans_ru: мы
+
+-lexeme
+ lex: минь
+ stem: минь.
+ gramm: PRO,1,pl,gen
+ paradigm: Clitics
+ trans_ru: мы
+
+-lexeme
+ lex: минь
+ stem: миндейнек.//тейнек.//миндеенек.//теенек.
+ gramm: PRO,1,pl,dat
+ paradigm: Clitics
+ trans_ru: мы
+
+-lexeme
+ lex: минь
+ stem: миндедонк.
+ gramm: PRO,1,pl,abl
+ paradigm: Clitics
+ trans_ru: мы
+
+-lexeme
+ lex: минь
+ stem: миньцонк.
+ gramm: PRO,1,pl,loc
+ paradigm: Clitics
+ trans_ru: мы
+
+-lexeme
+ lex: минь
+ stem: миньцтонк.
+ gramm: PRO,1,pl,el
+ paradigm: Clitics
+ trans_ru: мы
+
+-lexeme
+ lex: минь
+ stem: миньшканк.
+ gramm: PRO,1,pl,prol
+ paradigm: Clitics
+ trans_ru: мы
+
+-lexeme
+ lex: минь
+ stem: миньфтомонк.
+ gramm: PRO,1,pl,car
+ paradigm: Clitics
+ trans_ru: мы
+
+
+-lexeme
+ lex: минь
+ stem: минць.//миньць.
+ gramm: PRO,1,pl,nom,def
+ paradigm: Clitics
+ trans_ru: мы
+
+-lexeme
+ lex: минь
+ stem: минцень.
+ gramm: PRO,1,pl,gen,def
+ paradigm: Clitics
+ trans_ru: мы
+
+
+
+-lexeme
+ lex: тинь
+ stem: тинь.
+ gramm: PRO,2,pl,nom
+ paradigm: Clitics
+ trans_ru: вы
+
+-lexeme
+ lex: тинь
+ stem: тинь.
+ gramm: PRO,2,pl,gen
+ paradigm: Clitics
+ trans_ru: вы
+
+-lexeme
+ lex: тинь
+ stem: тиндейнть.//тейнть.//тиндеенть.//теенть.
+ gramm: PRO,2,pl,dat
+ paradigm: Clitics
+ trans_ru: вы
+
+-lexeme
+ lex: тинь
+ stem: тиндедонт.
+ gramm: PRO,2,pl,abl
+ paradigm: Clitics
+ trans_ru: вы
+
+-lexeme
+ lex: тинь
+ stem: тиньцонт.
+ gramm: PRO,2,pl,loc
+ paradigm: Clitics
+ trans_ru: вы
+
+-lexeme
+ lex: тинь
+ stem: тиньцтонт.
+ gramm: PRO,2,pl,el
+ paradigm: Clitics
+ trans_ru: вы
+
+-lexeme
+ lex: тинь
+ stem: тиньшкант.
+ gramm: PRO,2,pl,comp
+ paradigm: Clitics
+ trans_ru: вы
+
+-lexeme
+ lex: тинь
+ stem: тиньфтомонт.
+ gramm: PRO,2,pl,car
+ paradigm: Clitics
+ trans_ru: вы
+
+
+-lexeme
+ lex: тинь
+ stem: тинць.//тиньць.
+ gramm: PRO,2,pl,nom,def
+ paradigm: Clitics
+ trans_ru: вы
+
+-lexeme
+ lex: тинь
+ stem: тинцень.
+ gramm: PRO,2,pl,gen,def
+ paradigm: Clitics
+ trans_ru: вы
+
+
+
+
+-lexeme
+ lex: синь
+ stem: синь.
+ gramm: PRO,3,pl,nom
+ paradigm: Clitics
+ trans_ru: они
+
+-lexeme
+ lex: синь
+ stem: синь.
+ gramm: PRO,3,pl,gen
+ paradigm: Clitics
+ trans_ru: они
+
+-lexeme
+ lex: синь
+ stem: синдейст.//тейст.//синдеест.//теест.
+ gramm: PRO,3,pl,dat
+ paradigm: Clitics
+ trans_ru: они
+
+-lexeme
+ lex: синь
+ stem: синдедост.
+ gramm: PRO,3,pl,abl
+ paradigm: Clitics
+ trans_ru: они
+
+-lexeme
+ lex: синь
+ stem: синьцост.
+ gramm: PRO,3,pl,loc
+ paradigm: Clitics
+ trans_ru: они
+
+-lexeme
+ lex: синь
+ stem: синьцтост.
+ gramm: PRO,3,pl,el
+ paradigm: Clitics
+ trans_ru: они
+
+-lexeme
+ lex: синь
+ stem: синьшкаст.
+ gramm: PRO,3,pl,comp
+ paradigm: Clitics
+ trans_ru: они
+
+-lexeme
+ lex: синь
+ stem: синьфтомост.
+ gramm: PRO,3,pl,car
+ paradigm: Clitics
+ trans_ru: они
+
+
+-lexeme
+ lex: синь
+ stem: синць.//синьць.
+ gramm: PRO,3,pl,nom,def
+ paradigm: Clitics
+ trans_ru: они
+
+-lexeme
+ lex: синь
+ stem: синцень.
+ gramm: PRO,3,pl,gen,def
+ paradigm: Clitics
+ trans_ru: они
+
+
+
+-lexeme
+ lex: эсь
+ stem: эс.
+ gramm: PRO,refl
+ paradigm: PRO-esj
+ trans_ru: свой
+
+-lexeme
+ lex: ськамо
+ stem: ськамо.
+ gramm: PRO
+ paradigm: POST-poss-vowel
+ paradigm: N-case-vowel
+ paradigm: Clitics
+ trans_ru: один, в одиночку
+
+
+
+
+
+# The rest
+
+-lexeme
+ lex: ашайка
+ stem: ашайка.|ашайк.
+ gramm: PRO
+ paradigm: Clitics
+ trans_ru: ни шиша, ни черта
+
+-lexeme
+ lex: всякай
+ stem: всяка.|всякай.//всякайх.
+ gramm: PRO
+ paradigm: N-front-j
+ trans_ru: всякий, любой, каждый, случайный
+
+-lexeme
+ lex: гайся
+ stem: гайся.
+ gramm: PRO
+ paradigm: A-vowel
+ trans_ru: тот, та, то
+
+-lexeme
+ lex: кажнай
+ stem: кажна.|кажнай.//кажнайх.
+ gramm: PRO
+ paradigm: A-front-j
+ trans_ru: каждый, всякий, любой
+
+-lexeme
+ lex: кама
+ stem: кама.
+ gramm: PRO
+ paradigm: A-vowel
+ trans_ru: какой
+
+-lexeme
+ lex: кама-бди
+ stem: кама-бди.|кама-бди.//кама-бдих.
+ gramm: PRO
+ paradigm: N-iy
+ trans_ru: какой-то
+
+-lexeme
+ lex: кати-кие
+ stem: кати-кие.
+ gramm: PRO
+ paradigm: N-vowel
+ trans_ru: кто-то
+
+-lexeme
+ lex: кати-ков
+ stem: кати-ков.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: куда-то
+
+-lexeme
+ lex: кати-кода
+ stem: кати-кода.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: как-то, неизвестно как
+
+-lexeme
+ lex: кати-кодама
+ stem: кати-кодама.
+ gramm: PRO
+ paradigm: N-vowel
+ trans_ru: какой-то
+
+-lexeme
+ lex: кати-коза
+ stem: кати-коза.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: куда-то
+
+-lexeme
+ lex: кати-кона
+ stem: кати-кона.
+ gramm: PRO
+ paradigm: N-vowel
+ trans_ru: неизвестно кто
+
+-lexeme
+ lex: кати-коса
+ stem: кати-коса.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: где-то
+
+-lexeme
+ lex: кати-коста
+ stem: кати-коста.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: откуда-то, неизвестно откуда
+
+-lexeme
+ lex: кати-мезе
+ stem: кати-мезе.
+ gramm: PRO
+ paradigm: N-vowel
+ trans_ru: что-то
+
+-lexeme
+ lex: кати-мезенди
+ stem: кати-мезенди.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: зачем-то, неизвестно зачем
+
+-lexeme
+ lex: кати-мезьса
+ stem: кати-мезьса.
+ gramm: PRO
+ paradigm: N-vowel
+ trans_ru: чем-то
+
+-lexeme
+ lex: кати-мезяма
+ stem: кати-мезяма.
+ gramm: PRO
+ paradigm: N-vowel
+ trans_ru: что-то
+
+-lexeme
+ lex: кати-мес
+ stem: кати-мес.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: почему-то
+
+-lexeme
+ lex: кати-местема
+ stem: кати-местема.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: зачем-то
+
+-lexeme
+ lex: кати-мзяра
+ stem: кати-мзяра.
+ gramm: PRO
+ paradigm: N-vowel
+ trans_ru: сколько-то
+
+-lexeme
+ lex: кати-мзяра
+ stem: кати-мзяра.//кати-мъзяра.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: когда-то, неизвестно когда
+
+-lexeme
+ lex: кати-мзярс
+ stem: кати-мзярс.//кати-мъзярс.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: неизвестно на сколько
+
+-lexeme
+ lex: кивага
+ stem: кивага.|кивак.
+ gramm: PRO
+ paradigm: N-vowel
+ trans_ru: никто; кто-нибудь
+
+-lexeme
+ lex: кивок
+ stem: кивок.
+ gramm: PRO
+ paradigm: N-consonant
+ trans_ru: никто; кто-нибудь
+
+-lexeme
+ lex: кие
+ stem: кие.
+ gramm: PRO
+ paradigm: N-vowel
+ trans_ru: кто
+
+-lexeme
+ lex: кие-бди
+ stem: кие-бди.|кие-бди.//кие-бдих.
+ gramm: PRO
+ paradigm: N-iy
+ trans_ru: кто-то, некто
+
+-lexeme
+ lex: кикс
+ stem: кикс.
+ gramm: PRO
+ paradigm: N-consonant
+ trans_ru: кикс туф -- в кого
+
+-lexeme
+ lex: киндивок
+ stem: киндивок.
+ gramm: PRO
+ paradigm: N-consonant
+ trans_ru: кому-нибудь
+
+-lexeme
+ lex: киндиге
+ stem: киндиге.//киндигя.|киндик.//киндиг.//киндиге.
+ gramm: PRO
+ paradigm: N-vowel
+ trans_ru: кому-нибудь
+
+-lexeme
+ lex: кинь
+ stem: кин.
+ gramm: PRO
+ paradigm: PRO-front-soft
+ trans_ru: чей
+
+-lexeme
+ lex: киньге
+ stem: киньге.//киньгя.|киньк.//киньг.//киньге.
+ gramm: PRO
+ paradigm: N-vowel
+ trans_ru: кого-нибудь; никого
+
+-lexeme
+ lex: ков
+ stem: ков.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: куда
+
+-lexeme
+ lex: ков-бди
+ stem: ков-бди.//ков-бъди.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: куда-то
+
+-lexeme
+ lex: ков-ков
+ stem: ков-ков.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: никуда
+
+-lexeme
+ lex: ковга
+ stem: ковга.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: куда-нибудь
+
+-lexeme
+ lex: коволда
+ stem: коволда.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: откуда
+
+-lexeme
+ lex: коволдонь
+ stem: коволдонь.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: откуда
+
+-lexeme
+ lex: ковонга
+ stem: ковонга.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: куда-нибудь
+
+-lexeme
+ lex: кода
+ stem: кода.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: как
+
+-lexeme
+ lex: кода-бди
+ stem: кода-бди.//кода-бъди.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: как-то
+
+-lexeme
+ lex: кода-кода
+ stem: кода-кода.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: как-нибудь
+
+-lexeme
+ lex: кодавок
+ stem: кодавок.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: никак
+
+-lexeme
+ lex: кодама
+ stem: кодама.
+ gramm: PRO
+ paradigm: N-vowel
+ trans_ru: вопрос., относ. какой
+
+-lexeme
+ lex: кодама-бди
+ stem: кодама-бди.|кодама-бди.//кодама-бдих.
+ gramm: PRO
+ paradigm: N-iy
+ trans_ru: какой-то
+
+-lexeme
+ lex: кодама-кодама
+ stem: кодама-кодама.
+ gramm: PRO
+ paradigm: N-vowel
+ trans_ru: какой-нибудь
+
+-lexeme
+ lex: кодамовок
+ stem: кодамовок.
+ gramm: PRO
+ paradigm: N-consonant
+ trans_ru: неопр. какой-нибудь
+
+-lexeme
+ lex: кодана
+ stem: кодана.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: как же
+
+-lexeme
+ lex: коданга
+ stem: коданга.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: никак; как-нибудь
+
+-lexeme
+ lex: кодане
+ stem: кодане.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: как
+
+-lexeme
+ lex: кодане-кодане
+ stem: кодане-кодане.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: как-нибудь
+
+-lexeme
+ lex: коза
+ stem: коза.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: куда, где
+
+-lexeme
+ lex: коза-коза
+ stem: коза-коза.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: куда-нибудь
+
+-lexeme
+ lex: козовок
+ stem: козовок.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: куда-нибудь; никуда
+
+-lexeme
+ lex: козонга
+ stem: козонга.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: куда-нибудь
+
+-lexeme
+ lex: кой-кие
+ stem: кой-кие.
+ gramm: PRO
+ paradigm: N-vowel
+ trans_ru: кое-кто
+
+-lexeme
+ lex: кой-ков
+ stem: кой-ков.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: кое-куда
+
+-lexeme
+ lex: кой-кода
+ stem: кой-кода.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: кое-как; небрежно, плохо
+
+-lexeme
+ lex: кой-кодама
+ stem: кой-кодама.
+ gramm: PRO
+ paradigm: N-vowel
+ trans_ru: кое-какой, некоторый
+
+-lexeme
+ lex: кой-коза
+ stem: кой-коза.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: кое-куда
+
+-lexeme
+ lex: кой-кона
+ stem: кой-кона.
+ gramm: PRO
+ paradigm: N-vowel
+ trans_ru: некоторый, кое-кто
+
+-lexeme
+ lex: кой-коса
+ stem: кой-коса.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: кое-где
+
+-lexeme
+ lex: кой-коста
+ stem: кой-коста.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: иногда
+
+-lexeme
+ lex: кой-мезе
+ stem: кой-мезе.
+ gramm: PRO
+ paradigm: N-vowel
+ trans_ru: кое-что
+
+-lexeme
+ lex: кой-мзярда
+ stem: кой-мзярда.//кой-мъзярда.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: иногда
+
+-lexeme
+ lex: кой-мзярс
+ stem: кой-мзярс.//кой-мъзярс.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: некоторое время, пока
+
+-lexeme
+ lex: колдонь
+ stem: колдонь.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: откуда
+
+-lexeme
+ lex: кона
+ stem: кона.
+ gramm: PRO
+ paradigm: N-vowel
+ trans_ru: который; какой
+
+-lexeme
+ lex: кона-кона
+ stem: кона-кона.
+ gramm: PRO
+ paradigm: N-vowel
+ trans_ru: кое-кто
+
+-lexeme
+ lex: конавок
+ stem: конавок.
+ gramm: PRO
+ paradigm: N-consonant
+ trans_ru: кто-нибудь, кто-либо
+
+-lexeme
+ lex: конац
+ stem: конац.
+ gramm: PRO
+ paradigm: N-consonant
+ trans_ru: который; какой
+
+-lexeme
+ lex: конацка
+ stem: конацка.|конацк.
+ gramm: PRO
+ paradigm: N-vowel
+ trans_ru: кто-нибудь, кто-либо
+
+-lexeme
+ lex: конашка
+ stem: конашка.|конашк.
+ gramm: PRO
+ paradigm: N-vowel
+ trans_ru: какой, каков
+
+-lexeme
+ lex: конашкава
+ stem: конашкава.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: насколько
+
+-lexeme
+ lex: конашкада
+ stem: конашкада.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: когда
+
+-lexeme
+ lex: конашкаста
+ stem: конашкаста.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: насколько, как много
+
+-lexeme
+ lex: коса
+ stem: коса.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: где
+
+-lexeme
+ lex: коса-бди
+ stem: коса-бди.//коса-бъди.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: где-то
+
+-lexeme
+ lex: коса-коса
+ stem: коса-коса.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: где-нибудь
+
+-lexeme
+ lex: коса-повсь
+ stem: коса-повсь.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: где угодно, везде
+
+-lexeme
+ lex: косовок
+ stem: косовок.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: нигде; где-нибудь
+
+-lexeme
+ lex: косонга
+ stem: косонга.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: нигде; где-нибудь
+
+-lexeme
+ lex: коста
+ stem: коста.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: откуда
+
+-lexeme
+ lex: коста-бди
+ stem: коста-бди.//коста-бъди.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: откуда-нибудь
+
+-lexeme
+ lex: коста-повсь
+ stem: коста-повсь.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: отовсюду; когда угодно
+
+-lexeme
+ lex: костовок
+ stem: костовок.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: откуда-нибудь; нигде, ниоткуда; никогда
+
+-lexeme
+ lex: костонга
+ stem: костонга.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: откуда-нибудь; нигде, ниоткуда; никогда
+
+-lexeme
+ lex: костонь
+ stem: костонь.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: откуда родом
+
+-lexeme
+ lex: куване
+ stem: куване.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: где
+
+-lexeme
+ lex: ладнек
+ stem: ладнек.
+ gramm: PRO
+ paradigm: N-consonant
+ trans_ru: всё, весь
+
+-lexeme
+ lex: лия
+ stem: лия.
+ gramm: PRO
+ paradigm: N-vowel
+ trans_ru: другой, иной, прочий
+
+-lexeme
+ lex: мезе
+ stem: мезе.
+ gramm: PRO
+ paradigm: N-vowel
+ trans_ru: что
+
+-lexeme
+ lex: мезе-бди
+ stem: мезе-бди.|мезе-бди.//мезе-бдих.
+ gramm: PRO
+ paradigm: N-iy
+ trans_ru: что-то
+
+-lexeme
+ lex: мезе-мезе
+ stem: мезе-мезе.
+ gramm: PRO
+ paradigm: N-vowel
+ trans_ru: что-нибудь, что-либо
+
+-lexeme
+ lex: мезевок
+ stem: мезевок.
+ gramm: PRO
+ paradigm: N-consonant
+ trans_ru: что-нибудь; ничего
+
+-lexeme
+ lex: мезенкса
+ stem: мезенкса.
+ gramm: PRO
+ paradigm: N-vowel
+ trans_ru: почему, зачем
+
+-lexeme
+ lex: мезенкса-бди
+ stem: мезенкса-бди.|мезенкса-бди.//мезенкса-бдих.
+ gramm: PRO
+ paradigm: N-iy
+ trans_ru: зачем-то
+
+-lexeme
+ lex: мезенксонга
+ stem: мезенксонга.|мезенксонк.
+ gramm: PRO
+ paradigm: N-vowel
+ trans_ru: за что-нибудь
+
+-lexeme
+ lex: мезень
+ stem: мезен.
+ gramm: PRO
+ paradigm: PRO-front-soft
+ trans_ru: из чего
+
+-lexeme
+ lex: мезень-мезень
+ stem: мезень-мезен.
+ gramm: PRO
+ paradigm: PRO-front-soft
+ trans_ru: какой-нибудь
+
+-lexeme
+ lex: мезь
+ stem: мез.|мез.//мес.
+ gramm: PRO
+ paradigm: PRO-front-soft
+ trans_ru: что
+
+-lexeme
+ lex: мезьге
+ stem: мезьге.//мезьгя.|мезьк.//мезьг.//мезьге.
+ gramm: PRO
+ paradigm: N-vowel
+ trans_ru: что-нибудь
+
+-lexeme
+ lex: мезьда
+ stem: мезьда.|мезьт.
+ gramm: PRO
+ paradigm: N-vowel
+ trans_ru: что
+
+-lexeme
+ lex: мезьда-мезьда
+ stem: мезьда-мезьда.|мезьда-мезьт.
+ gramm: PRO
+ paradigm: N-vowel
+ trans_ru: что-нибудь
+
+-lexeme
+ lex: мезьске
+ stem: мезьске.//мезьскя.//мезьска.|мезьск.//мезьска.
+ gramm: PRO
+ paradigm: N-vowel
+ trans_ru: ничто
+
+-lexeme
+ lex: мейя
+ stem: мейя.
+ gramm: PRO
+ paradigm: N-vowel
+ trans_ru: что
+
+-lexeme
+ lex: менди
+ stem: менди.|менди.//мендих.
+ gramm: PRO
+ paradigm: N-iy
+ trans_ru: то же, что мезенди
+
+-lexeme
+ lex: мес
+ stem: мес.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: почему
+
+-lexeme
+ lex: месть
+ stem: мест.
+ gramm: PRO
+ paradigm: PRO-front-soft
+ trans_ru: что
+
+-lexeme
+ lex: месть-месть
+ stem: месть-мест.
+ gramm: PRO
+ paradigm: PRO-front-soft
+ trans_ru: что-то
+
+-lexeme
+ lex: местьке
+ stem: местьке.//местькя.//местька.|местьк.//местька.
+ gramm: PRO
+ paradigm: N-vowel
+ trans_ru: что-нибудь
+
+-lexeme
+ lex: мзяра
+ stem: мзяра.//мъзяра.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: сколько
+
+-lexeme
+ lex: мзяра-бди
+ stem: мзяра-бди.//мъзяра-бъди.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: сколько-то
+
+-lexeme
+ lex: мзяра-мзяра
+ stem: мзяра-мзяра.//мъзяра-мъзяра.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: когда
+
+-lexeme
+ lex: мзярда
+ stem: мзярда.//мъзярда.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: когда
+
+-lexeme
+ lex: мзярда-бди
+ stem: мзярда-бди.//мъзярда-бъди.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: когда-то
+
+-lexeme
+ lex: мзярдовок
+ stem: мзярдовок.//мъзярдовок.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: когда-нибудь; никогда
+
+-lexeme
+ lex: мзярдонга
+ stem: мзярдонга.//мъзярдонга.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: когда-нибудь; никогда
+
+-lexeme
+ lex: мзярксть
+ stem: мзярксть.//мъзярксть.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: много раз; сколько раз; в который раз
+
+-lexeme
+ lex: мзярняс
+ stem: мзярняс.
+ gramm: ADVPRO,dim
+ paradigm: Clitics
+ trans_ru: пока
+
+-lexeme
+ lex: мзяровок
+ stem: мзяровок.//мъзяровок.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: сколько-нибудь, немного; нисколько
+
+-lexeme
+ lex: мзярода
+ stem: мзярода.//мъзярода.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: на сколько
+
+-lexeme
+ lex: мзяронза
+ stem: мзяронза.//мъзяронза.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: сколько, в каком количестве
+
+-lexeme
+ lex: мзяроце
+ stem: мзяроце.
+ gramm: PRO
+ paradigm: N-vowel
+ trans_ru: вопр. который, какой
+
+-lexeme
+ lex: мзяроцеда
+ stem: мзяроцеда.|мзяроцет.
+ gramm: PRO
+ paradigm: N-vowel
+ trans_ru: примерно сколько
+
+-lexeme
+ lex: мзярошкада
+ stem: мзярошкада.//мъзярошкада.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: примерно сколько
+
+-lexeme
+ lex: мзярошканза
+ stem: мзярошканза.//мъзярошканза.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: сколько
+
+-lexeme
+ lex: мзярошкас
+ stem: мзярошкас.//мъзярошкас.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: приблизительно на сколько, примерно на какое время
+
+-lexeme
+ lex: мзярс
+ stem: мзярс.//мъзярс.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: как долго; пока, некоторое время
+
+-lexeme
+ lex: мзярс-мзярс
+ stem: мзярс-мзярс.//мъзярс-мъзярс.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: какое-то время, сколько-нибудь
+
+-lexeme
+ lex: мзярска
+ stem: мзярска.//мъзярска.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: какое-то время, сколько-нибудь
+
+-lexeme
+ lex: мийеге
+ stem: мийеге.//мийегя.|мийек.//мийег.//мийеге.
+ gramm: PRO
+ paradigm: N-vowel
+ trans_ru: что-нибудь
+
+-lexeme
+ lex: миндейнек
+ stem: миндейнек.
+ gramm: PRO
+ paradigm: N-consonant
+ trans_ru: дат. от минь
+
+-lexeme
+ lex: минди
+ stem: минди.|минди.//миндих.
+ gramm: PRO
+ paradigm: N-iy
+ trans_ru: то же, что мезенди
+
+-lexeme
+ lex: минцень
+ stem: минцен.
+ gramm: PRO
+ paradigm: PRO-front-soft
+ trans_ru: наш, наши
+
+-lexeme
+ lex: миявок
+ stem: миявок.
+ gramm: PRO
+ paradigm: N-consonant
+ trans_ru: ничего
+
+-lexeme
+ lex: миякс
+ stem: миякс.
+ gramm: PRO
+ paradigm: N-consonant
+ trans_ru: то же, что мезенди
+
+-lexeme
+ lex: миярдовок
+ stem: миярдовок.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: когда-нибудь; никогда
+
+-lexeme
+ lex: миярс
+ stem: миярс.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: как долго; пока, некоторое время
+
+-lexeme
+ lex: миятка
+ stem: миятка.|миятк.
+ gramm: PRO
+ paradigm: N-vowel
+ trans_ru: что-нибудь
+
+-lexeme
+ lex: мяйя
+ stem: мяйя.
+ gramm: PRO
+ paradigm: N-vowel
+ trans_ru: что
+
+-lexeme
+ lex: мяра
+ stem: мяра.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: сколько
+
+-lexeme
+ lex: нона
+ stem: нона.
+ gramm: PRO
+ paradigm: N-vowel
+ trans_ru: те, другие
+
+-lexeme
+ lex: ня
+ stem: ня.
+ gramm: PRO
+ paradigm: N-vowel
+ trans_ru: эти
+
+-lexeme
+ lex: нява
+ stem: нява.
+ gramm: PRO
+ paradigm: N-vowel
+ trans_ru: вон
+
+-lexeme
+ lex: някот
+ stem: няко.
+ gramm: PRO
+ paradigm: N-vowel
+ trans_ru: эти же, только эти
+
+-lexeme
+ lex: няма
+ stem: няма.
+ gramm: PRO
+ paradigm: N-vowel
+ trans_ru: что
+
+-lexeme
+ lex: сей
+ stem: сей.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: сюда
+
+-lexeme
+ lex: сей-тов
+ stem: сей-тов.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: туда-сюда, взад и вперёд
+
+-lexeme
+ lex: сембе
+ stem: сембе.
+ gramm: PRO
+ paradigm: N-vowel
+ trans_ru: всё
+
+-lexeme
+ lex: сице
+ stem: сице.
+ gramm: PRO
+ paradigm: N-vowel
+ trans_ru: тот, та, то
+
+-lexeme
+ lex: сияне
+ stem: сияне.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: там
+
+-lexeme
+ lex: сняра
+ stem: сняра.
+ gramm: PRO
+ paradigm: N-vowel
+ trans_ru: столько
+
+-lexeme
+ lex: снярда
+ stem: снярда.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: тогда
+
+-lexeme
+ lex: сняроксть
+ stem: сняроксть.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: столько раз
+
+-lexeme
+ lex: снярошка
+ stem: снярошка.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: столько
+
+-lexeme
+ lex: снярошкань
+ stem: снярошкань.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: столько
+
+-lexeme
+ lex: снярс
+ stem: снярс.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: тем временем, пока
+
+-lexeme
+ lex: сня
+ stem: сня.
+ gramm: PRO
+ paradigm: N-vowel
+ trans_ru: те
+
+-lexeme
+ lex: стама
+ stem: стама.
+ gramm: PRO
+ paradigm: N-vowel
+ trans_ru: такой
+
+-lexeme
+ lex: стамка
+ stem: стамка.|стамк.
+ gramm: PRO
+ paradigm: N-vowel
+ trans_ru: такой же
+
+-lexeme
+ lex: сювакай
+ stem: сювака.|сювакай.//сювакайх.
+ gramm: PRO
+ paradigm: PRO-front-j
+ trans_ru: всякий
+
+-lexeme
+ lex: ся
+ stem: ся.
+ gramm: PRO
+ paradigm: N-vowel
+ trans_ru: тот, та, то
+
+-lexeme
+ lex: сяка
+ stem: сяка.|сяк.
+ gramm: PRO
+ paradigm: N-vowel
+ trans_ru: тот же самый; всё равно
+
+-lexeme
+ lex: сяконь
+ stem: сякон.
+ gramm: PRO
+ paradigm: PRO-front-soft
+ trans_ru: тот же самый; всё равно
+
+-lexeme
+ lex: сяс
+ stem: сяс.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: поэтому
+
+-lexeme
+ lex: сяшкава
+ stem: сяшкава.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: настолько
+
+-lexeme
+ lex: талда
+ stem: талда.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: оттуда
+
+-lexeme
+ lex: тей
+ stem: тей.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: сюда
+
+-lexeme
+ lex: тейге
+ stem: тейге.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: здесь, по этому месту
+
+-lexeme
+ lex: титя
+ stem: титя.
+ gramm: PRO
+ paradigm: N-vowel
+ trans_ru: этот, эта, это
+
+-lexeme
+ lex: тия
+ stem: тия.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: здесь
+
+-lexeme
+ lex: тияк
+ stem: тияк.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: здесь
+
+-lexeme
+ lex: тияне
+ stem: тияне.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: здесь
+
+-lexeme
+ lex: тияне-сияне
+ stem: тияне-сияне.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: и здесь и там
+
+-lexeme
+ lex: тияне-туване
+ stem: тияне-туване.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: и здесь и там
+
+-lexeme
+ lex: тнярксть
+ stem: тнярксть.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: столько раз
+
+-lexeme
+ lex: тнярос
+ stem: тнярос.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: до сих пор
+
+-lexeme
+ lex: тнярс
+ stem: тнярс.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: до сих пор
+
+-lexeme
+ lex: тов
+ stem: тов.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: туда
+
+-lexeme
+ lex: тов-сей
+ stem: тов-сей.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: туда-сюда
+
+-lexeme
+ lex: товола
+ stem: товола.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: там
+
+-lexeme
+ lex: товолга
+ stem: товолга.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: там, по тому месту
+
+-lexeme
+ lex: товолда
+ stem: товолда.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: оттуда
+
+-lexeme
+ lex: товолдонь
+ stem: товолдонь.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: из тех мест, оттуда
+
+-lexeme
+ lex: товолу
+ stem: товолу.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: туда
+
+-lexeme
+ lex: тоза-тяза
+ stem: тоза-тяза.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: туда-сюда
+
+-lexeme
+ lex: тозк
+ stem: тозк.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: там же, туда же
+
+-lexeme
+ lex: тола
+ stem: тола.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: там
+
+-lexeme
+ lex: толда
+ stem: толда.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: оттуда
+
+-lexeme
+ lex: толдоння
+ stem: толдоння.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: из тех мест, оттуда
+
+-lexeme
+ lex: тона
+ stem: тона.
+ gramm: PRO
+ paradigm: N-vowel
+ trans_ru: тот
+
+-lexeme
+ lex: тоса
+ stem: тоса.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: там; потом
+
+-lexeme
+ lex: тоста
+ stem: тоста.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: оттуда, из того места
+
+-lexeme
+ lex: туване
+ stem: туване.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: по тому месту
+
+-lexeme
+ lex: туване-сияне
+ stem: туване-сияне.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: там и сям в разных местах, всюду
+
+-lexeme
+ lex: тя
+ stem: тя.
+ gramm: PRO
+ paradigm: N-vowel
+ trans_ru: это
+
+-lexeme
+ lex: тяда
+ stem: тяда.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: здесь
+
+-lexeme
+ lex: тяза
+ stem: тяза.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: сюда; здесь
+
+-lexeme
+ lex: тязк
+ stem: тязк.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: здесь; близко
+
+-lexeme
+ lex: тяка
+ stem: тяка.|тяк.
+ gramm: PRO
+ paradigm: N-vowel
+ trans_ru: тот же
+
+-lexeme
+ lex: тяльхце
+ stem: тяльхце.
+ gramm: PRO
+ paradigm: N-vowel
+ trans_ru: ни черта
+
+-lexeme
+ lex: тянкса
+ stem: тянкса.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: поэтому
+
+-lexeme
+ lex: тянь
+ stem: тян.
+ gramm: PRO
+ paradigm: PRO-front-soft
+ trans_ru: этот
+
+-lexeme
+ lex: тянь-сянь
+ stem: тянь-сян.
+ gramm: PRO
+ paradigm: PRO-front-soft
+ trans_ru: то-сё, кое-кого
+
+-lexeme
+ lex: тянь-тонань
+ stem: тянь-тонан.
+ gramm: PRO
+ paradigm: PRO-front-soft
+ trans_ru: о том, о сём
+
+-lexeme
+ lex: тяса
+ stem: тяса.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: здесь, тут
+
+-lexeme
+ lex: тяса-тоса
+ stem: тяса-тоса.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: кое-где
+
+-lexeme
+ lex: тяста
+ stem: тяста.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: отсюда
+
+-lexeme
+ lex: тяста-тоста
+ stem: тяста-тоста.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: иногда, кое-когда
+
+-lexeme
+ lex: тяфта
+ stem: тяфта.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: так, таким образом
+
+-lexeme
+ lex: тяфтама
+ stem: тяфтама.
+ gramm: PRO
+ paradigm: N-vowel
+ trans_ru: определит. такой
+
+-lexeme
+ lex: тяфтане
+ stem: тяфтане.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: так, таким образом
+
+-lexeme
+ lex: тяшка
+ stem: тяшка.|тяшк.
+ gramm: PRO
+ paradigm: N-vowel
+ trans_ru: такой
+
+-lexeme
+ lex: тяшкава
+ stem: тяшкава.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: так, до такой степени
+
+-lexeme
+ lex: тяшкада
+ stem: тяшкада.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: так рано
+
+-lexeme
+ lex: тяшкас
+ stem: тяшкас.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: до такого; к этому времени
+
+-lexeme
+ lex: эза
+ stem: эза.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: туда
+
+-lexeme
+ lex: эковай
+ stem: экова.|эковай.//эковайх.
+ gramm: PRO
+ paradigm: PRO-front-j
+ trans_ru: вот
+
+-lexeme
+ lex: экона
+ stem: экона.
+ gramm: PRO
+ paradigm: N-vowel
+ trans_ru: вон
+
+-lexeme
+ lex: эса
+ stem: эса.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: там
+
+-lexeme
+ lex: эста
+ stem: эста.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: тогда; оттуда
+
+-lexeme
+ lex: эхянь
+ stem: эхян.
+ gramm: PRO
+ paradigm: PRO-front-soft
+ trans_ru: самый
