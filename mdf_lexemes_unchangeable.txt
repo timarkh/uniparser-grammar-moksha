@@ -1,4 +1,18 @@
 ﻿-lexeme
+ lex: што
+ stem: што.//что.
+ gramm: CONJ,rus
+ paradigm: Clitics
+ trans_ru: что
+
+-lexeme
+ lex: штоба
+ stem: штоба.//чтобы.
+ gramm: CONJ,rus
+ paradigm: Clitics
+ trans_ru: чтобы
+
+-lexeme
  lex: а
  stem: а.
  gramm: CONJ,rus
@@ -4498,6 +4512,13 @@
  gramm: ADV
  paradigm: Clitics
  trans_ru: сгорбившись, ссутулившись
+
+-lexeme
+ lex: копст-копст
+ stem: копст-копст.
+ gramm: IMIT
+ paradigm: Clitics
+ trans_ru: о подпрыгивании или звуке ударов клювом
 
 -lexeme
  lex: коре
@@ -12695,3 +12716,38 @@
  gramm: ADV
  paradigm: Clitics
  trans_ru: рысцой
+
+-lexeme
+ lex: арай
+ stem: арай.
+ gramm: PREDIC
+ paradigm: Clitics
+ trans_ru: придётся, надо
+
+-lexeme
+ lex: мзярошкавок
+ stem: мзярошкавок.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: несколько, сколько-нибудь
+
+-lexeme
+ lex: тняра
+ stem: тняра.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: столько
+
+-lexeme
+ lex: тняронь
+ stem: тнярон.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: по стольку
+
+-lexeme
+ lex: тняршка
+ stem: тняршка.|тняршк.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: примерно столько

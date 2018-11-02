@@ -275,7 +275,7 @@
  lex: адъютантонь
  stem: адъютантон.|адъютантон.//адъютантот.
  gramm: A,rus
- paradigm: A-soft
+ paradigm: A-front-soft
  trans_ru: адъютанский
 
 -lexeme
@@ -4307,7 +4307,7 @@
  lex: далай
  stem: дала.
  gramm: A
- paradigm: A-soft-j
+ paradigm: A-front-j
  trans_ru: давний, давнишний
 
 -lexeme
@@ -21045,7 +21045,7 @@
  lex: чистой
  stem: чисто.
  gramm: A,rus
- paradigm: A-soft-j
+ paradigm: A-front-j
  trans_ru: вылитый
 
 -lexeme
@@ -22706,3 +22706,10 @@
  gramm: A
  paradigm: A-front-soft
  trans_ru: сказочный
+
+-lexeme
+ lex: сих
+ stem: сих.
+ gramm: A
+ paradigm: A-consonant
+ trans_ru: самый
