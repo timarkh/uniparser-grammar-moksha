@@ -5207,6 +5207,13 @@
  trans_ru: много
 
 -lexeme
+ lex: лама
+ stem: лама.|лама.//ламо.
+ gramm: A
+ paradigm: A-vowel
+ trans_ru: многий
+
+-lexeme
  lex: ламбамняста
  stem: ламбамняста.
  gramm: ADV,dim

@@ -22727,3 +22727,200 @@
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: фабрично-заводской
+
+-lexeme
+ lex: божий
+ stem: божий.|божийх.
+ grammr: A,rus
+ paradigm: A-front-j
+ trans_ru: божий
+
+-lexeme
+ lex: федеральнай
+ stem: федеральна.|федеральнайх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: федеральный
+
+-lexeme
+ lex: региональнай
+ stem: региональна.|региональнайх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: региональный
+
+-lexeme
+ lex: почётнай
+ stem: почётна.|почётнайх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: почётный
+
+-lexeme
+ lex: муниципальнай
+ stem: муниципальна.|муниципальнайх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: муниципальный
+
+-lexeme
+ lex: Ковылкинскяй
+ stem: ковылкинскя.|ковылкинскяйх.
+ gramm: A,topn
+ paradigm: A-front-j
+ trans_ru: Ковылкинский
+
+-lexeme
+ lex: межрегиональнай
+ stem: межрегиональна.|межрегиональнайх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: межрегиональный
+
+-lexeme
+ lex: поволжскяй
+ stem: поволжскя.|поволжскяйх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: поволжский
+
+-lexeme
+ lex: Рузаевскяй
+ stem: рузаевскя.|рузаевскяйх.
+ gramm: A,topn
+ paradigm: A-front-j
+ trans_ru: Рузаевский
+
+-lexeme
+ lex: Атюрьевскяй
+ stem: атюрьевскя.|атюрьевскяйх.
+ gramm: A,topn
+ paradigm: A-front-j
+ trans_ru: Атюрьевский
+
+-lexeme
+ lex: Пензенскяй
+ stem: пензенскя.|пензенскяйх.
+ gramm: A,topn
+ paradigm: A-front-j
+ trans_ru: Пензенский
+
+-lexeme
+ lex: Самарскяй
+ stem: самарскя.|самарскяйх.
+ gramm: A,topn
+ paradigm: A-front-j
+ trans_ru: Самарский
+
+-lexeme
+ lex: Краснослободскяй
+ stem: краснослободскя.|краснослободскяйх.
+ gramm: A,topn
+ paradigm: A-front-j
+ trans_ru: Краснослободский
+
+-lexeme
+ lex: московскяй
+ stem: московскя.|московскяйх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: московский
+
+-lexeme
+ lex: православнай
+ stem: православна.|православнайх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: православный
+
+-lexeme
+ lex: Зубово-полянскяй
+ stem: зубово-полянскя.|зубово-полянскяйх.
+ gramm: A,topn
+ paradigm: A-front-j
+ trans_ru: Зубово-полянский
+
+-lexeme
+ lex: Ульяновскяй
+ stem: ульяновскя.|ульяновскяйх.
+ gramm: A,topn
+ paradigm: A-front-j
+ trans_ru: Ульяновский
+
+-lexeme
+ lex: Старошайговскяй
+ stem: старошайговскя.|старошайговскяйх.
+ gramm: A,topn
+ paradigm: A-front-j
+ trans_ru: Старошайговский
+
+-lexeme
+ lex: Торбеевскяй
+ stem: торбеевскя.|торбеевскяйх.
+ gramm: A,topn
+ paradigm: A-front-j
+ trans_ru: Торбеевский
+
+-lexeme
+ lex: инновационнай
+ stem: инновационна.|инновационнайх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: инновационный
+
+-lexeme
+ lex: национально-культурнай
+ stem: национально-культурна.|национально-культурнайх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: национально-культурный
+
+-lexeme
+ lex: приволжскяй
+ stem: приволжскя.|приволжскяйх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: приволжский
+
+-lexeme
+ lex: этнокультурнай
+ stem: этнокультурна.|этнокультурнайх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: этнокультурный
+
+-lexeme
+ lex: Инсарскяй
+ stem: инсарскя.|инсарскяйх.
+ gramm: A,topn
+ paradigm: A-front-j
+ trans_ru: Инсарский
+
+-lexeme
+ lex: Нижегородскяй
+ stem: нижегородскя.|нижегородскяйх.
+ gramm: A,topn
+ paradigm: A-front-j
+ trans_ru: Нижегородский
+
+-lexeme
+ lex: единай
+ stem: едина.|единайх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: единый
+
+-lexeme
+ lex: социально-экономическяй
+ stem: социально-экономическя.|социально-экономическяйх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: социально-экономический
+
+-lexeme
+ lex: Темниковскяй
+ stem: темниковскя.|темниковскяйх.
+ gramm: A,topn
+ paradigm: A-front-j
+ trans_ru: Темниковский
+

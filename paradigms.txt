@@ -677,6 +677,11 @@
   gramm: csl,sg
   gloss: CSL
   paradigm: Clitics
+ -flex: .ня<.>
+  gramm: temp,sg
+  gloss: TEMP
+  regex-lex: ^(ков)$
+  paradigm: Clitics
 
 -paradigm: N-case-front-soft
  -flex: <0>.[ь]<.>//<1>.<.>
@@ -800,7 +805,7 @@
  -flex: <0>.[й]<.>//<1>.<.>
   gramm: 
   paradigm: N-poss-core
- -flex: <0>.<.>
+ -flex: <0>.[й]<.>//<1>.<.>
   gramm: 
   paradigm: N-poss-core-front
  -flex: <0>.ень<.>
@@ -943,6 +948,11 @@
  -flex: .нкса<.>
   gramm: csl,sg
   gloss: CSL
+  paradigm: Clitics
+ -flex: .ня<.>
+  gramm: temp,sg
+  gloss: TEMP
+  regex-lex: ^(киза|ши|минута|секунда)$
   paradigm: Clitics
 
 -paradigm: N-case_def_pl

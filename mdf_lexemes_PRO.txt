@@ -1058,6 +1058,13 @@
  trans_ru: откуда
 
 -lexeme
+ lex: коста-коста
+ stem: коста-коста.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: иногда
+
+-lexeme
  lex: коста-бди
  stem: коста-бди.//коста-бъди.
  gramm: ADVPRO

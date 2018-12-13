@@ -8,9 +8,6 @@ rxStemVariants = re.compile('[^ |/]+')
 rxFlexVariants = re.compile('[^ /]+')
 dictDiacritics = {'ӥ': 'и', 'ӧ': 'о', 'ӝ': 'ж',
                   'ӟ': 'з', 'ӵ': 'ч', 'ё': 'е'}
-rxParadigmChange = re.compile('( stem: *[^\r\n]+ӟ\.\n(?: [^\r\n]*\n)*)'
-                              '( paradigm: (?:Noun|connect_verbs)[^\r\n]+?)((?:-consonant)?)\n',
-                              flags=re.DOTALL)
 
 
 def collect_lemmata():
@@ -62,7 +59,6 @@ def russify(text):
     """
     Add diacriticless variants for stems and inflections.
     """
-    text = rxParadigmChange.sub('\\1\\2\\3\n\\2-soft\n', text)
     text = rxDiaPartsStem.sub(process_diacritics_stem, text)
     text = rxDiaPartsFlex.sub(process_diacritics_flex, text)
     return text
@@ -76,7 +72,7 @@ def main():
     """
     lemmata, lexrules = collect_lemmata()
     fOutLemmata = open('lexemes.txt', 'w', encoding='utf-8')
-    fOutLemmata.write(lemmata)
+    fOutLemmata.write(russify(lemmata))
     fOutLemmata.close()
     fOutLexrules = open('lex_rules.txt', 'w', encoding='utf-8')
     fOutLexrules.write(lexrules)
