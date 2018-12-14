@@ -209,6 +209,20 @@
  trans_ru: миллионный
 
 -lexeme
+ lex: миллиард
+ stem: миллиард.|миллиард.//миллиарт.
+ gramm: NUM,rus
+ paradigm: N-consonant
+ trans_ru: миллиард
+
+-lexeme
+ lex: миллион
+ stem: миллион.|миллион.//миллиот.
+ gramm: NUM,rus
+ paradigm: N-consonant
+ trans_ru: миллион
+
+-lexeme
  lex: ниле
  stem: ниле.
  gramm: NUM

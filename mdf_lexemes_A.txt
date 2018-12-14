@@ -22924,3 +22924,9 @@
  paradigm: A-front-j
  trans_ru: Темниковский
 
+-lexeme
+ lex: окаяннай
+ stem: окаянна.|окаяннай.//окаяннайх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: окаянный
