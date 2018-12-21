@@ -22930,3 +22930,10 @@
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: окаянный
+
+-lexeme
+ lex: чалай
+ stem: чала.|чалай.//чалайх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: чалый

@@ -12758,3 +12758,213 @@
  gramm: ADVPRO
  paradigm: Clitics
  trans_ru: примерно столько
+
+-lexeme
+ lex: ардомпачк
+ stem: ардомпачк.
+ gramm: ADV
+ paradigm: Clitics
+ trans_ru: проездом
+
+-lexeme
+ lex: веляньпяльде
+ stem: веляньпяльде.
+ gramm: ADV
+ paradigm: Clitics
+ trans_ru: наизнанку
+
+-lexeme
+ lex: веть
+ stem: веть.
+ gramm: ADV
+ paradigm: Clitics
+ trans_ru: ночью
+
+-lexeme
+ lex: впинь
+ stem: впинь.
+ gramm: ADV
+ paradigm: Clitics
+ trans_ru: вовсе; наотрез
+
+-lexeme
+ lex: галошста
+ stem: галошста.
+ gramm: ADV
+ paradigm: Clitics
+ trans_ru: наголо
+
+-lexeme
+ lex: кирдемшка
+ stem: кирдемшка.
+ gramm: ADV
+ paradigm: Clitics
+ trans_ru: терпимо
+
+-lexeme
+ lex: клёк
+ stem: клёк.
+ gramm: ADV
+ paradigm: Clitics
+ trans_ru: самый
+
+-lexeme
+ lex: комболфса
+ stem: комболфса.
+ gramm: ADV
+ paradigm: Clitics
+ trans_ru: вскачь
+
+-lexeme
+ lex: кядьвийса
+ stem: кядьвийса.
+ gramm: ADV
+ paradigm: Clitics
+ trans_ru: вручную
+
+-lexeme
+ lex: меккядть
+ stem: меккядть.
+ gramm: ADV
+ paradigm: Clitics
+ trans_ru: наотмашь
+
+-lexeme
+ lex: меколангт
+ stem: меколангт.
+ gramm: ADV
+ paradigm: Clitics
+ trans_ru: навыворот; наоборот
+
+-lexeme
+ lex: нардьста
+ stem: нардьста.
+ gramm: ADV
+ paradigm: Clitics
+ trans_ru: прочно
+
+-lexeme
+ lex: няевиста
+ stem: няевиста.|няевист.
+ gramm: ADV
+ paradigm: Clitics
+ trans_ru: заметно; явственно
+
+-lexeme
+ lex: пандомда
+ stem: пандомда.
+ gramm: ADV
+ paradigm: Clitics
+ trans_ru: взаймы
+
+-lexeme
+ lex: пеедькшнезь
+ stem: пеедькшнезь.
+ gramm: ADV
+ paradigm: Clitics
+ trans_ru: шутливо
+
+-lexeme
+ lex: пякстафста
+ stem: пякстафста.
+ gramm: ADV
+ paradigm: Clitics
+ trans_ru: взаперти
+
+-lexeme
+ lex: састоне
+ stem: састоне.
+ gramm: ADV
+ paradigm: Clitics
+ trans_ru: плавно
+
+-lexeme
+ lex: сатфксуста
+ stem: сатфксуста.
+ gramm: ADV
+ paradigm: Clitics
+ trans_ru: плодотворно
+
+-lexeme
+ lex: срадозь-каладозь
+ stem: срадозь-каладозь.
+ gramm: ADV
+ paradigm: Clitics
+ trans_ru: вразброд
+
+-lexeme
+ lex: сёлгфста
+ stem: сёлгфста.
+ gramm: ADV
+ paradigm: Clitics
+ trans_ru: взаперти
+
+-lexeme
+ lex: сёрмадфста
+ stem: сёрмадфста.
+ gramm: ADV
+ paradigm: Clitics
+ trans_ru: письменно
+
+-lexeme
+ lex: тифтень-тифтень
+ stem: тифтень-тифтень.
+ gramm: ADV
+ paradigm: Clitics
+ trans_ru: поодиночке
+
+-lexeme
+ lex: удовлетворительна
+ stem: удовлетворительна.
+ gramm: ADV,rus
+ paradigm: Clitics
+ trans_ru: удовлетворительно
+
+-lexeme
+ lex: урозекс
+ stem: урозекс.
+ gramm: ADV
+ paradigm: Clitics
+ trans_ru: сиротливо
+
+-lexeme
+ lex: фкянь
+ stem: фкянь.
+ gramm: ADV
+ paradigm: Clitics
+ trans_ru: поштучно
+
+-lexeme
+ lex: фкяньпес
+ stem: фкяньпес.
+ gramm: ADV
+ paradigm: Clitics
+ trans_ru: поголовно
+
+-lexeme
+ lex: шанчек
+ stem: шанчек.
+ gramm: ADV
+ paradigm: Clitics
+ trans_ru: вскачь
+
+-lexeme
+ lex: штада
+ stem: штада.
+ gramm: ADV
+ paradigm: Clitics
+ trans_ru: нагишом
+
+-lexeme
+ lex: эфтерь
+ stem: эфтерь.
+ gramm: ADV
+ paradigm: Clitics
+ trans_ru: довольно много
+
+-lexeme
+ lex: ётампачк
+ stem: ётампачк.
+ gramm: ADV
+ paradigm: Clitics
+ trans_ru: попутно; проездом
