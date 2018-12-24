@@ -1494,6 +1494,15 @@
   gramm: iter
   gloss: ITER
   paradigm: V-o-proper
+ -flex: .нд<.>
+  gramm: iter
+  gloss: ITER
+  paradigm: V-o-proper
+  paradigm: V-ye-proper
+ -flex: .нд|ев<.>//.нд|ов<.>
+  gramm: iter,pass
+  gloss: ITER|PASS
+  paradigm: V-o-proper
  -flex: .фт|ов<.>
   gramm: caus,pass
   gloss: CAUS|PASS
@@ -1577,7 +1586,7 @@
  -flex: .<.>
   gramm: 
   paradigm: V-ye-proper
- -flex: .[е]<.>//.[ь]<.>//.[й]<.>
+ -flex: <0>.[е]<.>//<0,1,2>.<.>//<0>.[й]<.>
   gramm: 
   paradigm: V-derivation
 
@@ -1613,6 +1622,14 @@
   gramm: desid
   gloss: DESID
   paradigm: V-pst2
+ -flex: .мок<.>
+  gramm: cvb,cvb.sim
+  gloss: CVB.SIM
+  paradigm: Clitics
+ -flex: .зь<.>
+  gramm: cvb,cvb.gen
+  gloss: CVB.GEN
+  paradigm: Clitics
  -flex: .мс<.>//.мкс<.>
   gramm: inf
   gloss: INF
@@ -1656,6 +1673,14 @@
   gramm: desid
   gloss: DESID
   paradigm: V-pst2
+ -flex: .[я]мок<.>
+  gramm: cvb,cvb.sim
+  gloss: CVB.SIM
+  paradigm: Clitics
+ -flex: .[я]зь<.>
+  gramm: cvb,cvb.gen
+  gloss: CVB.GEN
+  paradigm: Clitics
  -flex: .[я]мс<.>//.[я]мкс<.>
   gramm: inf
   gloss: INF
@@ -1703,6 +1728,14 @@
   gramm: desid
   gloss: DESID
   paradigm: V-pst2
+ -flex: .[о]мок<.>
+  gramm: cvb,cvb.sim
+  gloss: CVB.SIM
+  paradigm: Clitics
+ -flex: .[о]зь<.>
+  gramm: cvb,cvb.gen
+  gloss: CVB.GEN
+  paradigm: Clitics
  -flex: .[о]мс<.>//.[о]мкс<.>
   gramm: inf
   gloss: INF
@@ -1730,47 +1763,55 @@
   paradigm: V-pst2
 
 -paradigm: V-ye-proper
- -flex: .<.>//.[ь]<.>
+ -flex: .<.>
   paradigm: V-npst-ye
   paradigm: V-pst-ye
   paradigm: V-npst-obj
   paradigm: V-pst-obj
- -flex: .[е]<.>
+ -flex: <0>.[е]<.>
   paradigm: V-npst-obj
   paradigm: V-pst-obj
   paradigm: V-opt
   paradigm: V-imp
   paradigm: V-pst2
- -flex: .[ь]<.>//.е<.>
+ -flex: <1>.<.>//<0>.е<.>
   gramm: neg
   paradigm: Clitics
- -flex: .[ь]ф<.>
+ -flex: <1,2>.ф<.>
   gramm: ptcp.pst
   gloss: PTCP.PST
   paradigm: A-consonant
- -flex: .[е]ви<.>
+ -flex: <0>.[е]ви<.>
   gramm: ptcp.prs.pass
   gloss: PTCP.PRS.PASS
   paradigm: A-iy
- -flex: .[е]ндяря<.>//.[е]ньдяря<.>
+ -flex: <0>.[е]ндяря<.>//<0>.[е]ньдяря<.>
   gramm: cond
   gloss: COND
   paradigm: V-npst-cond
   paradigm: V-npst-obj
   paradigm: V-pst2
- -flex: .[е]лексо<.>
+ -flex: <0>.[е]лексо<.>
   gramm: desid
   gloss: DESID
   paradigm: V-pst2
- -flex: .[е]мс<.>//.[е]мкс<.>
+ -flex: <0>.[е]мок<.>
+  gramm: cvb,cvb.sim
+  gloss: CVB.SIM
+  paradigm: Clitics
+ -flex: <0>.[е]зь<.>
+  gramm: cvb,cvb.gen
+  gloss: CVB.GEN
+  paradigm: Clitics
+ -flex: <0>.[е]мс<.>//<0>.[е]мкс<.>
   gramm: inf
   gloss: INF
   paradigm: Clitics
- -flex: .[е]ма<.>
+ -flex: <0>.[е]ма<.>
   gramm: nmlz,nmlz_ma
   gloss: NMLZ
   paradigm: N-vowel
- -flex: .[е]мка<.>
+ -flex: <0>.[е]мка<.>
   gramm: nmlz,nmlz_mka
   gloss: NMLZ
   paradigm: N-vowel
@@ -1822,6 +1863,10 @@
  -flex: .ы<.>
   gramm: non_obj,3.s,sg.s,npst
   gloss: NPST.3SG
+ -flex: .и<.>
+  gramm: non_obj,3.s,sg.s,npst
+  gloss: NPST.3SG
+  regex-prev: .*[бвгжкмпфхчшщ][<>.]*$
  -flex: .тама<.>
   gramm: non_obj,1.s,pl.s,npst
   gloss: NPST.1PL
@@ -1831,6 +1876,10 @@
  -flex: .ыхть<.>
   gramm: non_obj,3.s,pl.s,npst
   gloss: NPST.3PL
+ -flex: .ихть<.>
+  gramm: non_obj,3.s,pl.s,npst
+  gloss: NPST.3PL
+  regex-prev: .*[бвгжкмпфхчшщ][<>.]*$
  paradigm: Clitics
 
 -paradigm: V-npst-ye

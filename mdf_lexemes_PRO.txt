@@ -1528,7 +1528,7 @@
 
 -lexeme
  lex: сембе
- stem: сембе.
+ stem: сембе.//сембо.
  gramm: PRO
  paradigm: N-vowel
  trans_ru: всё
@@ -2031,10 +2031,24 @@
  trans_ru: там
 
 -lexeme
+ lex: эса
+ stem: эсо.
+ gramm: ADVPRO
+ paradigm: N-poss-after-case
+ trans_ru: там
+
+-lexeme
  lex: эста
  stem: эста.
  gramm: ADVPRO
  paradigm: Clitics
+ trans_ru: тогда; оттуда
+
+-lexeme
+ lex: эста
+ stem: эсто.
+ gramm: ADVPRO
+ paradigm: N-poss-after-case
  trans_ru: тогда; оттуда
 
 -lexeme

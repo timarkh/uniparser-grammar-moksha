@@ -4718,7 +4718,7 @@
 
 -lexeme
  lex: кувалма
- stem: кувалма.
+ stem: кувалма.//къвалма.//квалма.
  gramm: POST
  paradigm: Clitics
  trans_ru: по, вдоль; о
@@ -12085,6 +12085,13 @@
  stem: эзда.
  gramm: POST
  paradigm: Clitics
+ trans_ru: из
+
+-lexeme
+ lex: эзда
+ stem: эздо.
+ gramm: POST
+ paradigm: N-poss-after-case
  trans_ru: из
 
 -lexeme
