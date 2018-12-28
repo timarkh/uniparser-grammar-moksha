@@ -978,7 +978,7 @@
   gramm: gen,sg,1sg
   gloss: SG.1SG|GEN
  -flex: .з|ти<.>//.оз|ти<.>
-  gramm: sg,1sg
+  gramm: dat,sg,1sg
   gloss: SG.1SG|DAT
  -flex: .не<.>
   gramm: nom,pl,1sg
@@ -987,7 +987,7 @@
   gramm: gen,pl,1sg
   gloss: PL.1SG|GEN
  -flex: .не|нди<.>
-  gramm: pl,1sg
+  gramm: dat,pl,1sg
   gloss: PL.1SG|DAT
  -flex: .це<.>
   gramm: nom,sg,2sg
@@ -996,7 +996,7 @@
   gramm: gen,sg,2sg
   gloss: SG.2SG|GEN
  -flex: .ц|ти<.>
-  gramm: sg,2sg
+  gramm: dat,sg,2sg
   gloss: SG.2SG|DAT
  -flex: .тне<.>
   gramm: nom,pl,2sg
@@ -1005,7 +1005,7 @@
   gramm: gen,pl,2sg
   gloss: PL.2SG|GEN
  -flex: .тне|нди<.>
-  gramm: pl,2sg
+  gramm: dat,pl,2sg
   gloss: PL.2SG|DAT
  -flex: .ц<.>//.оц<.>
   gramm: nom,sg,3sg
@@ -1014,7 +1014,7 @@
   gramm: gen,sg,3sg
   gloss: GEN|SG.3SG
  -flex: .н|ц|ты<.>//.он|ц|ты<.>
-  gramm: sg,3sg
+  gramm: dat,sg,3sg
   gloss: GEN|SG.3SG|DAT
  -flex: .нза<.>//.онза<.>
   gramm: nom,pl,3sg
@@ -1023,7 +1023,7 @@
   gramm: gen,pl,3sg
   gloss: PL.3SG|GEN
  -flex: .нзо|нды<.>//.онзо|нды<.>
-  gramm: pl,3sg
+  gramm: dat,pl,3sg
   gloss: PL.3SG|DAT
  -flex: .ньке<.>//.оньке<.>
   gramm: nom,sg,1pl
@@ -1032,7 +1032,7 @@
   gramm: gen,sg,1pl
   gloss: 1PL|GEN
  -flex: .нько|нди<.>//.онько|нди<.>
-  gramm: sg,1pl
+  gramm: dat,sg,1pl
   gloss: 1PL|DAT
  -flex: .нте<.>//.онте<.>
   gramm: nom,sg,2pl
@@ -1041,7 +1041,7 @@
   gramm: gen,sg,2pl
   gloss: 2PL|GEN
  -flex: .нте|нди<.>//.онте|нди<.>
-  gramm: sg,2pl
+  gramm: dat,sg,2pl
   gloss: 2PL|DAT
  -flex: .сна<.>
   gramm: nom,sg,3pl
@@ -1058,10 +1058,10 @@
   gloss: 3PL|GEN
   regex-prev: .*нь?[<>.]*$
  -flex: .сно|нды<.>
-  gramm: sg,3pl
+  gramm: dat,sg,3pl
   gloss: 3PL|DAT
  -flex: .цно|нды<.>
-  gramm: sg,3pl
+  gramm: dat,sg,3pl
   gloss: 3PL|DAT
   regex-prev: .*нь?[<>.]*$
  paradigm: Clitics
@@ -1076,7 +1076,7 @@
   gramm: gen,sg,1sg
   gloss: SG.1SG|GEN
  -flex: .з|ти<.>//.оз|ти<.>
-  gramm: sg,1sg
+  gramm: dat,sg,1sg
   gloss: SG.1SG|DAT
  -flex: .не<.>
   gramm: nom,pl,1sg
@@ -1085,7 +1085,7 @@
   gramm: gen,pl,1sg
   gloss: PL.1SG|GEN
  -flex: .не|нди<.>
-  gramm: pl,1sg
+  gramm: dat,pl,1sg
   gloss: PL.1SG|DAT
  -flex: .це<.>
   gramm: nom,sg,2sg
@@ -1094,7 +1094,7 @@
   gramm: gen,sg,2sg
   gloss: SG.2SG|GEN
  -flex: .ц|ти<.>
-  gramm: sg,2sg
+  gramm: dat,sg,2sg
   gloss: SG.2SG|DAT
  -flex: .тне<.>
   gramm: nom,pl,2sg
@@ -1103,7 +1103,7 @@
   gramm: gen,pl,2sg
   gloss: PL.2SG|GEN
  -flex: .тне|нди<.>
-  gramm: pl,2sg
+  gramm: dat,pl,2sg
   gloss: PL.2SG|DAT
  -flex: .ц<.>//.ец<.>
   gramm: nom,sg,3sg
@@ -1112,7 +1112,7 @@
   gramm: gen,sg,3sg
   gloss: GEN|SG.3SG
  -flex: .н|ц|ты<.>//.ен|ц|ты<.>
-  gramm: sg,3sg
+  gramm: dat,sg,3sg
   gloss: GEN|SG.3SG|DAT
  -flex: .нза<.>//.енза<.>
   gramm: nom,pl,3sg
@@ -1121,7 +1121,7 @@
   gramm: gen,pl,3sg
   gloss: PL.3SG|GEN
  -flex: .нзо|нды<.>//.ензо|нды<.>
-  gramm: pl,3sg
+  gramm: dat,pl,3sg
   gloss: PL.3SG|DAT
  -flex: .ньке<.>//.еньке<.>
   gramm: nom,sg,1pl
@@ -1130,7 +1130,7 @@
   gramm: gen,sg,1pl
   gloss: 1PL|GEN
  -flex: .нько|нди<.>//.енько|нди<.>
-  gramm: sg,1pl
+  gramm: dat,sg,1pl
   gloss: 1PL|DAT
  -flex: .нте<.>//.енте<.>
   gramm: nom,sg,2pl
@@ -1139,7 +1139,7 @@
   gramm: gen,sg,2pl
   gloss: 2PL|GEN
  -flex: .нте|нди<.>//.енте|нди<.>
-  gramm: sg,2pl
+  gramm: dat,sg,2pl
   gloss: 2PL|DAT
  -flex: .сна<.>
   gramm: nom,sg,3pl
@@ -1156,10 +1156,10 @@
   gloss: 3PL|GEN
   regex-prev: .*нь?[<>.]*$
  -flex: .сно|нды<.>
-  gramm: sg,3pl
+  gramm: dat,sg,3pl
   gloss: 3PL|DAT
  -flex: .цно|нды<.>
-  gramm: sg,3pl
+  gramm: dat,sg,3pl
   gloss: 3PL|DAT
   regex-prev: .*нь?[<>.]*$
  paradigm: Clitics
@@ -1473,64 +1473,64 @@
  -flex: .фт<.>
   gramm: caus
   gloss: CAUS
-  paradigm: V-o-proper
+  paradigm: V-o-proper-deriv
  -flex: .ф|н<.>
   gramm: caus,mult
   gloss: CAUS|MULT
-  paradigm: V-ye-proper
+  paradigm: V-ye-proper-deriv
  -flex: .в<.>
   gramm: pass
   gloss: PASS
-  paradigm: V-o-proper
+  paradigm: V-o-proper-deriv
  -flex: .в|кшн<.>//.во|кшн<.>
   gramm: pass,iter
   gloss: PASS|ITER
-  paradigm: V-ye-proper
+  paradigm: V-ye-proper-deriv
  -flex: .шенд|ов<.>
   gramm: iter,pass
   gloss: ITER|PASS
-  paradigm: V-o-proper
+  paradigm: V-o-proper-deriv
  -flex: .шенд<.>
   gramm: iter
   gloss: ITER
-  paradigm: V-o-proper
+  paradigm: V-o-proper-deriv
  -flex: .нд<.>
   gramm: iter
   gloss: ITER
-  paradigm: V-o-proper
-  paradigm: V-ye-proper
+  paradigm: V-o-proper-deriv
+  paradigm: V-ye-proper-deriv
  -flex: .нд|ев<.>//.нд|ов<.>
   gramm: iter,pass
   gloss: ITER|PASS
-  paradigm: V-o-proper
+  paradigm: V-o-proper-deriv
  -flex: .фт|ов<.>
   gramm: caus,pass
   gloss: CAUS|PASS
-  paradigm: V-o-proper
+  paradigm: V-o-proper-deriv
  -flex: .кшн<.>
   gramm: iter
   gloss: ITER
-  paradigm: V-ye-proper
+  paradigm: V-ye-proper-deriv
  -flex: .кшн|ев<.>
   gramm: iter,caus
   gloss: ITER|PASS
-  paradigm: V-o-proper
+  paradigm: V-o-proper-deriv
  -flex: .кшн|ефт<.>
   gramm: iter,pass
   gloss: ITER|CAUS
-  paradigm: V-o-proper
+  paradigm: V-o-proper-deriv
  -flex: .фт|окшн<.>
   gramm: iter,caus
   gloss: CAUS|ITER
-  paradigm: V-ye-proper
+  paradigm: V-ye-proper-deriv
  -flex: .зев<.>
   gramm: inch
   gloss: INCH
-  paradigm: V-o-proper
+  paradigm: V-o-proper-deriv
  -flex: .зев|кшн<.>
   gramm: inch,iter
   gloss: INCH|ITER
-  paradigm: V-o-proper
+  paradigm: V-o-proper-deriv
 
 -paradigm: V-a
  -flex: .<.>
@@ -1557,26 +1557,26 @@
 -paradigm: V-do
  -flex: .[д]<.>
   gramm: 
-  paradigm: V-o-proper
+  paradigm: V-o-proper-deriv
  -flex: .[до]<.>
   gramm: 
   paradigm: V-derivation
  -flex: .фт<.>
   gramm: caus
   gloss: CAUS
-  paradigm: V-o-proper
+  paradigm: V-o-proper-deriv
  -flex: .фт|ов<.>
   gramm: caus,pass
   gloss: CAUS|PASS
-  paradigm: V-o-proper
+  paradigm: V-o-proper-deriv
  -flex: .фт|окшн<.>
   gramm: iter,caus
   gloss: CAUS|ITER
-  paradigm: V-ye-proper
+  paradigm: V-ye-proper-deriv
  -flex: .ф|н<.>
   gramm: caus,mult
   gloss: CAUS|MULT
-  paradigm: V-ye-proper
+  paradigm: V-ye-proper-deriv
  -flex: .ф<.>
   gramm: ptcp.pst
   gloss: PTCP.PST
@@ -1589,7 +1589,6 @@
  -flex: <0>.[е]<.>//<0,1,2>.<.>//<0>.[й]<.>
   gramm: 
   paradigm: V-derivation
-
 
 
 -paradigm: V-a-proper
@@ -1750,6 +1749,61 @@
   paradigm: N-vowel
 
 
+-paradigm: V-o-proper-deriv
+ -flex: .<.>
+  paradigm: V-npst-o
+  paradigm: V-pst-o
+  paradigm: V-npst-obj
+  paradigm: V-pst-obj
+ -flex: .о<.>
+  paradigm: V-npst-obj
+  paradigm: V-pst-obj
+  paradigm: V-opt
+  paradigm: V-imp
+  paradigm: V-pst2
+ -flex: .<.>//.а<.>
+  gramm: neg
+  paradigm: Clitics
+ -flex: .ф<.>
+  gramm: ptcp.pst
+  gloss: PTCP.PST
+  paradigm: A-consonant
+ -flex: .ови<.>
+  gramm: ptcp.prs.pass
+  gloss: PTCP.PRS.PASS
+  paradigm: A-iy
+ -flex: .ондяря<.>//.оньдяря<.>
+  gramm: cond
+  gloss: COND
+  paradigm: V-npst-cond
+  paradigm: V-npst-obj
+  paradigm: V-pst2
+ -flex: .олексо<.>
+  gramm: desid
+  gloss: DESID
+  paradigm: V-pst2
+ -flex: .омок<.>
+  gramm: cvb,cvb.sim
+  gloss: CVB.SIM
+  paradigm: Clitics
+ -flex: .озь<.>
+  gramm: cvb,cvb.gen
+  gloss: CVB.GEN
+  paradigm: Clitics
+ -flex: .омс<.>//.омкс<.>
+  gramm: inf
+  gloss: INF
+  paradigm: Clitics
+ -flex: .ома<.>
+  gramm: nmlz,nmlz_ma
+  gloss: NMLZ
+  paradigm: N-vowel
+ -flex: .омка<.>
+  gramm: nmlz,nmlz_mka
+  gloss: NMLZ
+  paradigm: N-vowel
+
+
 -paradigm: V-izj
  -flex: .[ь]<.>//.<.>
   paradigm: V-npst-ye
@@ -1812,6 +1866,61 @@
   gloss: NMLZ
   paradigm: N-vowel
  -flex: <0>.[е]мка<.>
+  gramm: nmlz,nmlz_mka
+  gloss: NMLZ
+  paradigm: N-vowel
+
+
+-paradigm: V-ye-proper-deriv
+ -flex: .<.>
+  paradigm: V-npst-ye
+  paradigm: V-pst-ye
+  paradigm: V-npst-obj
+  paradigm: V-pst-obj
+ -flex: .е<.>
+  paradigm: V-npst-obj
+  paradigm: V-pst-obj
+  paradigm: V-opt
+  paradigm: V-imp
+  paradigm: V-pst2
+ -flex: .<.>//.е<.>
+  gramm: neg
+  paradigm: Clitics
+ -flex: .ф<.>
+  gramm: ptcp.pst
+  gloss: PTCP.PST
+  paradigm: A-consonant
+ -flex: .еви<.>
+  gramm: ptcp.prs.pass
+  gloss: PTCP.PRS.PASS
+  paradigm: A-iy
+ -flex: .ендяря<.>//.еньдяря<.>
+  gramm: cond
+  gloss: COND
+  paradigm: V-npst-cond
+  paradigm: V-npst-obj
+  paradigm: V-pst2
+ -flex: .елексо<.>
+  gramm: desid
+  gloss: DESID
+  paradigm: V-pst2
+ -flex: .емок<.>
+  gramm: cvb,cvb.sim
+  gloss: CVB.SIM
+  paradigm: Clitics
+ -flex: .езь<.>
+  gramm: cvb,cvb.gen
+  gloss: CVB.GEN
+  paradigm: Clitics
+ -flex: .емс<.>//.емкс<.>
+  gramm: inf
+  gloss: INF
+  paradigm: Clitics
+ -flex: .ема<.>
+  gramm: nmlz,nmlz_ma
+  gloss: NMLZ
+  paradigm: N-vowel
+ -flex: .емка<.>
   gramm: nmlz,nmlz_mka
   gloss: NMLZ
   paradigm: N-vowel
