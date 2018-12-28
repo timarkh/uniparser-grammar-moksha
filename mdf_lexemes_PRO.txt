@@ -690,7 +690,7 @@
  lex: кинь
  stem: кин.
  gramm: PRO
- paradigm: PRO-front-soft
+ paradigm: N-front-soft
  trans_ru: чей
 
 -lexeme
@@ -1173,21 +1173,21 @@
  lex: мезень
  stem: мезен.
  gramm: PRO
- paradigm: PRO-front-soft
+ paradigm: A-front-soft
  trans_ru: из чего
 
 -lexeme
  lex: мезень-мезень
  stem: мезень-мезен.
  gramm: PRO
- paradigm: PRO-front-soft
+ paradigm: A-front-soft
  trans_ru: какой-нибудь
 
 -lexeme
  lex: мезь
  stem: мез.|мез.//мес.
  gramm: PRO
- paradigm: PRO-front-soft
+ paradigm: N-front-soft
  trans_ru: что
 
 -lexeme
@@ -1243,14 +1243,14 @@
  lex: месть
  stem: мест.
  gramm: PRO
- paradigm: PRO-front-soft
+ paradigm: N-front-soft
  trans_ru: что
 
 -lexeme
  lex: месть-месть
  stem: месть-мест.
  gramm: PRO
- paradigm: PRO-front-soft
+ paradigm: N-front-soft
  trans_ru: что-то
 
 -lexeme
@@ -1425,8 +1425,8 @@
  lex: минцень
  stem: минцен.
  gramm: PRO
- paradigm: PRO-front-soft
- trans_ru: наш, наши
+ paradigm: A-front-soft
+ trans_ru: наш
 
 -lexeme
  lex: миявок
@@ -1614,7 +1614,7 @@
  lex: сювакай
  stem: сювака.|сювакай.//сювакайх.
  gramm: PRO
- paradigm: PRO-front-j
+ paradigm: N-front-j
  trans_ru: всякий
 
 -lexeme
@@ -1635,7 +1635,7 @@
  lex: сяконь
  stem: сякон.
  gramm: PRO
- paradigm: PRO-front-soft
+ paradigm: A-front-soft
  trans_ru: тот же самый; всё равно
 
 -lexeme
@@ -1908,21 +1908,21 @@
  lex: тянь
  stem: тян.
  gramm: PRO
- paradigm: PRO-front-soft
+ paradigm: A-front-soft
  trans_ru: этот
 
 -lexeme
  lex: тянь-сянь
  stem: тянь-сян.
  gramm: PRO
- paradigm: PRO-front-soft
+ paradigm: N-front-soft
  trans_ru: то-сё, кое-кого
 
 -lexeme
  lex: тянь-тонань
  stem: тянь-тонан.
  gramm: PRO
- paradigm: PRO-front-soft
+ paradigm: N-front-soft
  trans_ru: о том, о сём
 
 -lexeme
@@ -2013,7 +2013,7 @@
  lex: эковай
  stem: экова.|эковай.//эковайх.
  gramm: PRO
- paradigm: PRO-front-j
+ paradigm: N-front-j
  trans_ru: вот
 
 -lexeme
@@ -2055,5 +2055,5 @@
  lex: эхянь
  stem: эхян.
  gramm: PRO
- paradigm: PRO-front-soft
+ paradigm: A-front-soft
  trans_ru: самый

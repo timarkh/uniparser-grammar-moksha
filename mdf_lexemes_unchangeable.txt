@@ -12975,3 +12975,10 @@
  gramm: ADV
  paradigm: Clitics
  trans_ru: попутно; проездом
+
+-lexeme
+ lex: матри
+ stem: матри.
+ gramm: PARENTH
+ paradigm: Clitics
+ trans_ru: наверное, очевидно

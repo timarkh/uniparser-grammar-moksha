@@ -89494,6 +89494,13 @@
  trans_ru: трудодень
 
 -lexeme
+ lex: трудяй
+ stem: трудя.|трудяй.//трудяйх.
+ gramm: N,rus,anim,hum
+ paradigm: N-front-j
+ trans_ru: трудящийся
+
+-lexeme
  lex: трудящай
  stem: трудяща.|трудящай.//трудящайх.
  gramm: N,rus,anim,hum
