@@ -161,7 +161,7 @@
 
 -lexeme
  lex: колма
- stem: колма.|колма.//колмо.
+ stem: колма.//колмо.
  gramm: NUM
  paradigm: NUM-vowel
  trans_ru: три

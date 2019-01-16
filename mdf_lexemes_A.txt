@@ -22937,3 +22937,970 @@
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: чалый
+
+-lexeme
+ lex: лацонь
+ stem: лацон.
+ gramm: A
+ paradigm: A-front-soft
+ trans_ru: особый (эсь лацонь); однородный (фкя лацонь)
+
+-lexeme
+ lex: иняру
+ stem: иняру.
+ gramm: A
+ paradigm: A-vowel
+ trans_ru: святой
+
+-lexeme
+ lex: духовнай
+ stem: духовна.|духовнай.//духовнайх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: духовный
+
+-lexeme
+ lex: образовательнай
+ stem: образовательна.|образовательнай.//образовательнайх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: образовательный
+
+-lexeme
+ lex: театральнай
+ stem: театральна.|театральнай.//театральнайх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: театральный
+
+-lexeme
+ lex: юбилейнай
+ stem: юбилейна.|юбилейнай.//юбилейнайх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: юбилейный
+
+-lexeme
+ lex: дошкольнай
+ stem: дошкольна.|дошкольнай.//дошкольнайх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: дошкольный
+
+-lexeme
+ lex: религиознай
+ stem: религиозна.|религиознай.//религиознайх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: религиозный
+
+-lexeme
+ lex: межнациональнай
+ stem: межнациональна.|межнациональнай.//межнациональнайх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: межнациональный
+
+-lexeme
+ lex: ледовай
+ stem: ледова.|ледовай.//ледовайх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: ледовый
+
+-lexeme
+ lex: начальнай
+ stem: начальна.|начальнай.//начальнайх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: начальный
+
+-lexeme
+ lex: общероссийскяй
+ stem: общероссийскя.|общероссийскяй.//общероссийскяйх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: общероссийский
+
+-lexeme
+ lex: производственнай
+ stem: производственна.|производственнай.//производственнайх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: производственный
+
+-lexeme
+ lex: ограниченнай
+ stem: ограниченна.|ограниченнай.//ограниченнайх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: ограниченный
+
+-lexeme
+ lex: заработнай
+ stem: заработна.|заработнай.//заработнайх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: заработный
+
+-lexeme
+ lex: научно-практическяй
+ stem: научно-практическя.|научно-практическяй.//научно-практическяйх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: научно-практический
+
+-lexeme
+ lex: коммерческяй
+ stem: коммерческя.|коммерческяй.//коммерческяйх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: коммерческий
+
+-lexeme
+ lex: магическяй
+ stem: магическя.|магическяй.//магическяйх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: магический
+
+-lexeme
+ lex: агропромышленнай
+ stem: агропромышленна.|агропромышленнай.//агропромышленнайх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: агропромышленный
+
+-lexeme
+ lex: научно-исследовательскяй
+ stem: научно-исследовательскя.|научно-исследовательскяй.//научно-исследовательскяйх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: научно-исследовательский
+
+-lexeme
+ lex: координационнай
+ stem: координационна.|координационнай.//координационнайх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: координационный
+
+-lexeme
+ lex: правоохранительнай
+ stem: правоохранительна.|правоохранительнай.//правоохранительнайх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: правоохранительный
+
+-lexeme
+ lex: финно-угрань
+ stem: финно-угран.
+ gramm: A,rus
+ paradigm: A-front-soft
+ trans_ru: финно-угорский
+
+-lexeme
+ lex: населённай
+ stem: населённа.|населённай.//населённайх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: населённый
+
+-lexeme
+ lex: праздничнай
+ stem: празднична.|праздничнай.//праздничнайх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: праздничный
+
+-lexeme
+ lex: этническяй
+ stem: этническя.|этническяй.//этническяйх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: этнический
+
+-lexeme
+ lex: дальняй
+ stem: дальня.|дальняй.//дальняйх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: дальний
+
+-lexeme
+ lex: кафедральнай
+ stem: кафедральна.|кафедральнай.//кафедральнайх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: кафедральный
+
+-lexeme
+ lex: общественно-политическяй
+ stem: общественно-политическя.|общественно-политическяй.//общественно-политическяйх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: общественно-политический
+
+-lexeme
+ lex: демографическяй
+ stem: демографическя.|демографическяй.//демографическяйх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: демографический
+
+-lexeme
+ lex: класснай
+ stem: классна.|класснай.//класснайх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: классный
+
+-lexeme
+ lex: жилищно-коммунальнай
+ stem: жилищно-коммунальна.|жилищно-коммунальнай.//жилищно-коммунальнайх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: жилищно-коммунальный
+
+-lexeme
+ lex: исследовательскяй
+ stem: исследовательскя.|исследовательскяй.//исследовательскяйх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: исследовательский
+
+-lexeme
+ lex: английскяй
+ stem: английскя.|английскяй.//английскяйх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: английский
+
+-lexeme
+ lex: благотворительнай
+ stem: благотворительна.|благотворительнай.//благотворительнайх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: благотворительный
+
+-lexeme
+ lex: представительнай
+ stem: представительна.|представительнай.//представительнайх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: представительный
+
+-lexeme
+ lex: акционернай
+ stem: акционерна.|акционернай.//акционернайх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: акционерный
+
+-lexeme
+ lex: налоговай
+ stem: налогова.|налоговай.//налоговайх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: налоговый
+
+-lexeme
+ lex: позитивнай
+ stem: позитивна.|позитивнай.//позитивнайх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: позитивный
+
+-lexeme
+ lex: компьютернай
+ stem: компьютерна.|компьютернай.//компьютернайх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: компьютерный
+
+-lexeme
+ lex: первичнай
+ stem: первична.|первичнай.//первичнайх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: первичный
+
+-lexeme
+ lex: расширеннай
+ stem: расширенна.|расширеннай.//расширеннайх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: расширенный
+
+-lexeme
+ lex: территориальнай
+ stem: территориальна.|территориальнай.//территориальнайх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: территориальный
+
+-lexeme
+ lex: инвестиционнай
+ stem: инвестиционна.|инвестиционнай.//инвестиционнайх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: инвестиционный
+
+-lexeme
+ lex: физкультурно-оздоровительнай
+ stem: физкультурно-оздоровительна.|физкультурно-оздоровительнай.//физкультурно-оздоровительнайх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: физкультурно-оздоровительный
+
+-lexeme
+ lex: материально-техническяй
+ stem: материально-техническя.|материально-техническяй.//материально-техническяйх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: материально-технический
+
+-lexeme
+ lex: миграционнай
+ stem: миграционна.|миграционнай.//миграционнайх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: миграционный
+
+-lexeme
+ lex: периодическяй
+ stem: периодическя.|периодическяй.//периодическяйх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: периодический
+
+-lexeme
+ lex: ипотечнай
+ stem: ипотечна.|ипотечнай.//ипотечнайх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: ипотечный
+
+-lexeme
+ lex: перинатальнай
+ stem: перинатальна.|перинатальнай.//перинатальнайх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: перинатальный
+
+-lexeme
+ lex: академическяй
+ stem: академическя.|академическяй.//академическяйх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: академический
+
+-lexeme
+ lex: русскяй
+ stem: русскя.|русскяй.//русскяйх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: русский
+
+-lexeme
+ lex: технологическяй
+ stem: технологическя.|технологическяй.//технологическяйх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: технологический
+
+-lexeme
+ lex: удмуртскяй
+ stem: удмуртскя.|удмуртскяй.//удмуртскяйх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: удмуртский
+
+-lexeme
+ lex: юношескяй
+ stem: юношескя.|юношескяй.//юношескяйх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: юношеский
+
+-lexeme
+ lex: военно-патриотическяй
+ stem: военно-патриотическя.|военно-патриотическяй.//военно-патриотическяйх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: военно-патриотический
+
+-lexeme
+ lex: оптическяй
+ stem: оптическя.|оптическяй.//оптическяйх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: оптический
+
+-lexeme
+ lex: театрализованнай
+ stem: театрализованна.|театрализованнай.//театрализованнайх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: театрализованный
+
+-lexeme
+ lex: клиническяй
+ stem: клиническя.|клиническяй.//клиническяйх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: клинический
+
+-lexeme
+ lex: призовой
+ stem: призово.|призовой.//призовойх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: призовой
+
+-lexeme
+ lex: греко-римскяй
+ stem: греко-римскя.|греко-римскяй.//греко-римскяйх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: греко-римский
+
+-lexeme
+ lex: перерабатывающай
+ stem: перерабатывающа.|перерабатывающай.//перерабатывающайх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: перерабатывающий
+
+-lexeme
+ lex: перспективнай
+ stem: перспективна.|перспективнай.//перспективнайх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: перспективный
+
+-lexeme
+ lex: правовой
+ stem: правово.|правовой.//правовойх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: правовой
+
+-lexeme
+ lex: прикладной
+ stem: прикладно.|прикладной.//прикладнойх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: прикладной
+
+-lexeme
+ lex: хореографическяй
+ stem: хореографическя.|хореографическяй.//хореографическяйх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: хореографический
+
+-lexeme
+ lex: дорожнай
+ stem: дорожна.|дорожнай.//дорожнайх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: дорожный
+
+-lexeme
+ lex: воскреснай
+ stem: воскресна.|воскреснай.//воскреснайх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: воскресный
+
+-lexeme
+ lex: президентскяй
+ stem: президентскя.|президентскяй.//президентскяйх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: президентский
+
+-lexeme
+ lex: силовой
+ stem: силово.|силовой.//силовойх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: силовой
+
+-lexeme
+ lex: тематическяй
+ stem: тематическя.|тематическяй.//тематическяйх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: тематический
+
+-lexeme
+ lex: межрелигиознай
+ stem: межрелигиозна.|межрелигиознай.//межрелигиознайх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: межрелигиозный
+
+-lexeme
+ lex: приоритетнай
+ stem: приоритетна.|приоритетнай.//приоритетнайх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: приоритетный
+
+-lexeme
+ lex: страховой
+ stem: страхово.|страховой.//страховойх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: страховой
+
+-lexeme
+ lex: благодарственнай
+ stem: благодарственна.|благодарственнай.//благодарственнайх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: благодарственный
+
+-lexeme
+ lex: интеллектуальнай
+ stem: интеллектуальна.|интеллектуальнай.//интеллектуальнайх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: интеллектуальный
+
+-lexeme
+ lex: крестьянско-фермерскяй
+ stem: крестьянско-фермерскя.|крестьянско-фермерскяй.//крестьянско-фермерскяйх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: крестьянско-фермерский
+
+-lexeme
+ lex: межконфессиональнай
+ stem: межконфессиональна.|межконфессиональнай.//межконфессиональнайх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: межконфессиональный
+
+-lexeme
+ lex: научно-техническяй
+ stem: научно-техническя.|научно-техническяй.//научно-техническяйх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: научно-технический
+
+-lexeme
+ lex: полнай
+ stem: полна.|полнай.//полнайх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: полный
+
+-lexeme
+ lex: праведнай
+ stem: праведна.|праведнай.//праведнайх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: праведный
+
+-lexeme
+ lex: практическяй
+ stem: практическя.|практическяй.//практическяйх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: практический
+
+-lexeme
+ lex: специализированнай
+ stem: специализированна.|специализированнай.//специализированнайх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: специализированный
+
+-lexeme
+ lex: турнирнай
+ stem: турнирна.|турнирнай.//турнирнайх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: турнирный
+
+-lexeme
+ lex: уникальнай
+ stem: уникальна.|уникальнай.//уникальнайх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: уникальный
+
+-lexeme
+ lex: межбюджетнай
+ stem: межбюджетна.|межбюджетнай.//межбюджетнайх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: межбюджетный
+
+-lexeme
+ lex: следственнай
+ stem: следственна.|следственнай.//следственнайх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: следственный
+
+-lexeme
+ lex: благоустроеннай
+ stem: благоустроенна.|благоустроеннай.//благоустроеннайх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: благоустроенный
+
+-lexeme
+ lex: культурно-досуговай
+ stem: культурно-досугова.|культурно-досуговай.//культурно-досуговайх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: культурно-досуговый
+
+-lexeme
+ lex: отборочнай
+ stem: отборочна.|отборочнай.//отборочнайх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: отборочный
+
+-lexeme
+ lex: духовно-нравственнай
+ stem: духовно-нравственна.|духовно-нравственнай.//духовно-нравственнайх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: духовно-нравственный
+
+-lexeme
+ lex: нравственнай
+ stem: нравственна.|нравственнай.//нравственнайх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: нравственный
+
+-lexeme
+ lex: оперативнай
+ stem: оперативна.|оперативнай.//оперативнайх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: оперативный
+
+-lexeme
+ lex: пресвятой
+ stem: пресвято.|пресвятой.//пресвятойх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: пресвятой
+
+-lexeme
+ lex: экологическяй
+ stem: экологическя.|экологическяй.//экологическяйх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: экологический
+
+-lexeme
+ lex: колорадскяй
+ stem: колорадскя.|колорадскяй.//колорадскяйх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: колорадский
+
+-lexeme
+ lex: культурно-массовай
+ stem: культурно-массова.|культурно-массовай.//культурно-массовайх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: культурно-массовый
+
+-lexeme
+ lex: оздоровительнай
+ stem: оздоровительна.|оздоровительнай.//оздоровительнайх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: оздоровительный
+
+-lexeme
+ lex: божий
+ stem: божи.|божий.//божийх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: божий
+
+-lexeme
+ lex: историко-социологическяй
+ stem: историко-социологическя.|историко-социологическяй.//историко-социологическяйх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: историко-социологический
+
+-lexeme
+ lex: коллективнай
+ stem: коллективна.|коллективнай.//коллективнайх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: коллективнай
+
+-lexeme
+ lex: лыжно-биатлоннай
+ stem: лыжно-биатлонна.|лыжно-биатлоннай.//лыжно-биатлоннайх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: лыжно-биатлонный
+
+-lexeme
+ lex: проектнай
+ stem: проектна.|проектнай.//проектнайх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: проектный
+
+-lexeme
+ lex: профориентационнай
+ stem: профориентационна.|профориентационнай.//профориентационнайх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: профориентационный
+
+-lexeme
+ lex: уважаемай
+ stem: уважаема.|уважаемай.//уважаемайх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: уважаемый
+
+-lexeme
+ lex: учебно-методическяй
+ stem: учебно-методическя.|учебно-методическяй.//учебно-методическяйх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: учебно-методический
+
+-lexeme
+ lex: выдающай
+ stem: выдающа.|выдающай.//выдающайх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: выдающийся
+
+-lexeme
+ lex: инфекционнай
+ stem: инфекционна.|инфекционнай.//инфекционнайх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: инфекционный
+
+-lexeme
+ lex: экспертнай
+ stem: экспертна.|экспертнай.//экспертнайх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: экспертнай
+
+-lexeme
+ lex: ветеранскяй
+ stem: ветеранскя.|ветеранскяй.//ветеранскяйх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: ветеранский
+
+-lexeme
+ lex: волоконнай
+ stem: волоконна.|волоконнай.//волоконнайх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: волоконный
+
+-lexeme
+ lex: волонтёрскяй
+ stem: волонтёрскя.|волонтёрскяй.//волонтёрскяйх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: волонтёрский
+
+-lexeme
+ lex: квалифицированнай
+ stem: квалифицированна.|квалифицированнай.//квалифицированнайх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: квалифицированный
+
+-lexeme
+ lex: профилактическяй
+ stem: профилактическя.|профилактическяй.//профилактическяйх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: профилактический
+
+-lexeme
+ lex: прямой
+ stem: прямо.|прямой.//прямойх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: прямой
+
+-lexeme
+ lex: психологическяй
+ stem: психологическя.|психологическяй.//психологическяйх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: психологический
+
+-lexeme
+ lex: фельдшерско-акушерскяй
+ stem: фельдшерско-акушерскя.|фельдшерско-акушерскяй.//фельдшерско-акушерскяйх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: фельдшерско-акушерский
+
+-lexeme
+ lex: историко-краеведческяй
+ stem: историко-краеведческя.|историко-краеведческяй.//историко-краеведческяйх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: историко-краеведческий
+
+-lexeme
+ lex: колоннай
+ stem: колонна.|колоннай.//колоннайх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: колонный
+
+-lexeme
+ lex: консультативнай
+ stem: консультативна.|консультативнай.//консультативнайх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: консультативный
+
+-lexeme
+ lex: культурно-просветительскяй
+ stem: культурно-просветительскя.|культурно-просветительскяй.//культурно-просветительскяйх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: культурно-просветительский
+
+-lexeme
+ lex: одарённай
+ stem: одарённа.|одарённай.//одарённайх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: одарённый
+
+-lexeme
+ lex: полиэтиленовай
+ stem: полиэтиленова.|полиэтиленовай.//полиэтиленовайх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: полиэтиленовый
+
+-lexeme
+ lex: татарскяй
+ stem: татарскя.|татарскяй.//татарскяйх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: татарский
+
+-lexeme
+ lex: чрезвычайнай
+ stem: чрезвычайна.|чрезвычайнай.//чрезвычайнайх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: чрезвычайный
+
+-lexeme
+ lex: языческяй
+ stem: языческя.|языческяй.//языческяйх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: языческий
+
+-lexeme
+ lex: американскяй
+ stem: американскя.|американскяй.//американскяйх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: американский
+
+-lexeme
+ lex: всесоюзнай
+ stem: всесоюзна.|всесоюзнай.//всесоюзнайх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: всесоюзный
+
+-lexeme
+ lex: издательскяй
+ stem: издательскя.|издательскяй.//издательскяйх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: издательский
+
+-lexeme
+ lex: межэтническяй
+ stem: межэтническя.|межэтническяй.//межэтническяйх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: межэтнический
+
+-lexeme
+ lex: паралимпийскяй
+ stem: паралимпийскя.|паралимпийскяй.//паралимпийскяйх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: паралимпийский
+
+-lexeme
+ lex: постояннай
+ stem: постоянна.|постояннай.//постояннайх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: постоянный
+
+-lexeme
+ lex: профильнай
+ stem: профильна.|профильнай.//профильнайх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: профильный
+
+-lexeme
+ lex: физико-математическяй
+ stem: физико-математическя.|физико-математическяй.//физико-математическяйх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: физико-математический
+
+-lexeme
+ lex: конкурентоспособнай
+ stem: конкурентоспособна.|конкурентоспособнай.//конкурентоспособнайх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: конкурентоспособный
+
+-lexeme
+ lex: архитектурно-строительнай
+ stem: архитектурно-строительна.|архитектурно-строительнай.//архитектурно-строительнайх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: архитектурно-строительный
+
+-lexeme
+ lex: библиотечнай
+ stem: библиотечна.|библиотечнай.//библиотечнайх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: библиотечный
+
+-lexeme
+ lex: лекарственнай
+ stem: лекарственна.|лекарственнай.//лекарственнайх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: лекарственный
+

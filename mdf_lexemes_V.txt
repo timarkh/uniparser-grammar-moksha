@@ -1,4 +1,12 @@
 -lexeme
+ lex: аф
+ stem: аф.
+ gramm: V,neg
+ paradigm: Clitics
+ paradigm: Pred-consonant
+ trans_ru: не
+
+-lexeme
  lex: абазламс
  stem: абазла.
  gramm: V,tr
@@ -522,6 +530,13 @@
  gramm: V,tr
  paradigm: V-a
  trans_ru: стать
+
+-lexeme
+ lex: арсемс
+ stem: арс.
+ gramm: V,tr,mult
+ paradigm: V-ye
+ trans_ru: становиться
 
 -lexeme
  lex: аранзамс
@@ -5072,6 +5087,13 @@
  gramm: V,intr,rus
  paradigm: V-a
  trans_ru: заниматься
+
+-lexeme
+ lex: занцемс
+ stem: занц.
+ gramm: V,tr,rus,mult
+ paradigm: V-ye
+ trans_ru: занимать
 
 -lexeme
  lex: занямс
@@ -10156,6 +10178,13 @@
  trans_ru: дать
 
 -lexeme
+ lex: макссемс
+ stem: максс.
+ gramm: V,tr,mult
+ paradigm: V-ye
+ trans_ru: дать
+
+-lexeme
  lex: макшиямс
  stem: макши.|макший.
  gramm: V,intr
@@ -11277,7 +11306,7 @@
 
 -lexeme
  lex: мярьгомс
- stem: мярьг.
+ stem: мярьг.|мярьк.
  gramm: V,tr
  paradigm: V-o
  trans_ru: сказать
@@ -17966,6 +17995,13 @@
  gramm: V,intr
  paradigm: V-a
  trans_ru: войти
+
+-lexeme
+ lex: сувсемс
+ stem: сувс.
+ gramm: V,intr,mult
+ paradigm: V-ye
+ trans_ru: входить
 
 -lexeme
  lex: сувамс-лисемс

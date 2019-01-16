@@ -49,7 +49,7 @@ def process_diacritics_stem(line):
 
 def process_diacritics_flex(line):
     """
-    Remove diacritics from one line that contains inflextions.
+    Remove diacritics from one line that contains inflections.
     """
     morphCorrected = rxFlexVariants.sub(add_diacriticless, line.group(2))
     return line.group(1) + morphCorrected

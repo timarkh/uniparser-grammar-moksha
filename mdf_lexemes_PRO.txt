@@ -863,7 +863,7 @@
 
 -lexeme
  lex: кой-кие
- stem: кой-кие.
+ stem: кой-кие.//кой-ки.
  gramm: PRO
  paradigm: N-vowel
  trans_ru: кое-кто
@@ -1821,6 +1821,13 @@
  trans_ru: из тех мест, оттуда
 
 -lexeme
+ lex: тоза
+ stem: тоза.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: туда
+
+-lexeme
  lex: тона
  stem: тона.
  gramm: PRO
@@ -2007,6 +2014,13 @@
  stem: эза.
  gramm: ADVPRO
  paradigm: Clitics
+ trans_ru: туда
+
+-lexeme
+ lex: эза
+ stem: эзо.
+ gramm: ADVPRO
+ paradigm: POST-poss-vowel
  trans_ru: туда
 
 -lexeme

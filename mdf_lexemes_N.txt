@@ -11767,7 +11767,7 @@
 
 -lexeme
  lex: васта
- stem: васта.|васт.
+ stem: васта.//васто.|васт.
  gramm: N
  paradigm: N-vowel
  trans_ru: место
@@ -12813,6 +12813,13 @@
  stem: веле.
  gramm: N
  paradigm: N-vowel
+ trans_ru: село, селение
+
+-lexeme
+ lex: веле
+ stem: вел.
+ gramm: N
+ paradigm: N-add-vele
  trans_ru: село, селение
 
 -lexeme
@@ -41685,7 +41692,7 @@
 
 -lexeme
  lex: ланга
- stem: ланга.|ланк.
+ stem: ланга.//ланго.|ланк.
  gramm: N
  paradigm: N-vowel
  trans_ru: поверхность
@@ -46536,10 +46543,10 @@
 
 -lexeme
  lex: маштомаши
- stem: маштомаши.|маштомаши.//маштомаших.
+ stem: маштомаши.//маштомоши.|маштомаши.//маштомаших.//маштомоши.//маштомоших.
  gramm: N
  paradigm: N-iy
- trans_ru: умение, сноровка
+ trans_ru: умение, навык
 
 -lexeme
  lex: маштыкс
@@ -64278,6 +64285,13 @@
  gramm: N,rus
  paradigm: N-front-soft
  trans_ru: полать
+
+-lexeme
+ lex: полафткс
+ stem: полафткс.
+ gramm: N
+ paradigm: N-consonant
+ trans_ru: изменение
 
 -lexeme
  lex: полафтомбяль
@@ -82474,7 +82488,7 @@
 
 -lexeme
  lex: стирь
- stem: стир.|стирь.//стирьх.
+ stem: стир.|стир.//стирь.//стирьх.
  gramm: N,anim,hum
  paradigm: N-front-soft-x
  trans_ru: девушка; дочь

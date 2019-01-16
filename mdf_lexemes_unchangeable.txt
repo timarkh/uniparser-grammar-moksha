@@ -503,13 +503,6 @@
  trans_ru: кончилось, прошло, пропало
 
 -lexeme
- lex: аф
- stem: аф.
- gramm: PART
- paradigm: Clitics
- trans_ru: не
-
--lexeme
  lex: афи
  stem: афи.
  gramm: PART
@@ -4378,6 +4371,7 @@
  stem: колга.
  gramm: POST
  paradigm: Clitics
+ paradigm: POST-poss-vowel
  trans_ru: о
 
 -lexeme
@@ -6037,6 +6031,13 @@
  stem: мельге.
  gramm: POST
  paradigm: Clitics
+ trans_ru: за, вслед, после
+
+-lexeme
+ lex: мельге
+ stem: мельга.
+ gramm: POST
+ paradigm: POST-poss-vowel
  trans_ru: за, вслед, после
 
 -lexeme

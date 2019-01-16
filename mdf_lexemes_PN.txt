@@ -37793,7 +37793,7 @@
 
 -lexeme
  lex: Моску
- stem: моску.
+ stem: моску.//москуво.|моску.//москуф.
  gramm: N,PN,topn
  paradigm: N-vowel
  trans_ru: Москва
@@ -66645,3 +66645,23 @@
  paradigm: N-vowel
  trans_ru: Ященко
 
+-lexeme
+ lex: Альшина
+ stem: альшина.
+ gramm: N,PN,famn
+ paradigm: N-vowel
+ trans_ru: Альшина
+
+-lexeme
+ lex: Вешкин
+ stem: вешкин.
+ gramm: N,PN,famn
+ paradigm: N-consonant
+ trans_ru: Вешкин
+
+-lexeme
+ lex: Кубанцева
+ stem: кубанцева.
+ gramm: N,PN,famn
+ paradigm: N-vowel
+ trans_ru: Кубанцева
