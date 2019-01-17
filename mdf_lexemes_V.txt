@@ -11306,7 +11306,7 @@
 
 -lexeme
  lex: мярьгомс
- stem: мярьг.|мярьк.
+ stem: мярьг.//мярьк.
  gramm: V,tr
  paradigm: V-o
  trans_ru: сказать
@@ -16574,6 +16574,13 @@
  gramm: V,tr
  paradigm: V-a
  trans_ru: догнать
+
+-lexeme
+ lex: сатнемс
+ stem: сатн.
+ gramm: V,tr,mult
+ paradigm: V-ye
+ trans_ru: достигать
 
 -lexeme
  lex: сатомс

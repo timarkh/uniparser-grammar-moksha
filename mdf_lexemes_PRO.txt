@@ -779,10 +779,10 @@
 
 -lexeme
  lex: кодама
- stem: кодама.
+ stem: кодама.//кодамо.
  gramm: PRO
  paradigm: N-vowel
- trans_ru: вопрос., относ. какой
+ trans_ru: какой
 
 -lexeme
  lex: кодама-бди
@@ -803,7 +803,7 @@
  stem: кодамовок.
  gramm: PRO
  paradigm: N-consonant
- trans_ru: неопр. какой-нибудь
+ trans_ru: какой-нибудь
 
 -lexeme
  lex: кодана
@@ -884,7 +884,7 @@
 
 -lexeme
  lex: кой-кодама
- stem: кой-кодама.
+ stem: кой-кодама.//кой-кодамо.
  gramm: PRO
  paradigm: N-vowel
  trans_ru: кое-какой, некоторый
@@ -1262,7 +1262,7 @@
 
 -lexeme
  lex: мзяра
- stem: мзяра.//мъзяра.
+ stem: мзяра.//мъзяра.//мзяро.//мъзяро.
  gramm: ADVPRO
  paradigm: Clitics
  trans_ru: сколько
@@ -1283,7 +1283,7 @@
 
 -lexeme
  lex: мзярда
- stem: мзярда.//мъзярда.
+ stem: мзярда.//мъзярда.//мзярдо.//мъзярдо.
  gramm: ADVPRO
  paradigm: Clitics
  trans_ru: когда
@@ -1349,7 +1349,7 @@
  stem: мзяроце.
  gramm: PRO
  paradigm: N-vowel
- trans_ru: вопр. который, какой
+ trans_ru: который, какой
 
 -lexeme
  lex: мзяроцеда
@@ -1408,25 +1408,11 @@
  trans_ru: что-нибудь
 
 -lexeme
- lex: миндейнек
- stem: миндейнек.
- gramm: PRO
- paradigm: N-consonant
- trans_ru: дат. от минь
-
--lexeme
  lex: минди
  stem: минди.|минди.//миндих.
  gramm: PRO
  paradigm: N-iy
  trans_ru: то же, что мезенди
-
--lexeme
- lex: минцень
- stem: минцен.
- gramm: PRO
- paradigm: A-front-soft
- trans_ru: наш
 
 -lexeme
  lex: миявок
@@ -1972,7 +1958,7 @@
  stem: тяфтама.
  gramm: PRO
  paradigm: N-vowel
- trans_ru: определит. такой
+ trans_ru: такой
 
 -lexeme
  lex: тяфтане

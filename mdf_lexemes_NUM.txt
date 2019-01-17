@@ -205,7 +205,7 @@
  lex: миллионнай
  stem: миллионна.|миллионнай.//миллионнайх.
  gramm: NUM,ord,rus
- paradigm: NUM-front-j
+ paradigm: A-front-j
  trans_ru: миллионный
 
 -lexeme
@@ -280,7 +280,7 @@
 
 -lexeme
  lex: тёжянь
- stem: тёжян.
+ stem: тёжян.|тёжят.
  gramm: NUM
  paradigm: NUM-front-soft
  trans_ru: тысяча

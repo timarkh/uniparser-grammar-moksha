@@ -9247,7 +9247,7 @@
 
 -lexeme
  lex: лёхкай
- stem: лёхка.|лёхкай.//лёхкайх.
+ stem: лёхка.//лёгка.|лёхкай.//лёхкайх.//лёгкай.//лёгкайх.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: лёгкий
@@ -19076,7 +19076,7 @@
 -lexeme
  lex: тядянь-алянь
  stem: тядянь-алян.
- gramm: A,rus
+ gramm: A
  paradigm: A-front-soft
  trans_ru: родительский
 
@@ -23903,4 +23903,18 @@
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: лекарственный
+
+-lexeme
+ lex: самай
+ stem: сама.|самай.//самайх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: самый
+
+-lexeme
+ lex: декоративно-прикладной
+ stem: декоративно-прикладно.|декоративно-прикладной.//декоративно-прикладнойх.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: декоративно-прикладной
 

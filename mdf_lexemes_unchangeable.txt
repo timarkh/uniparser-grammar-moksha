@@ -5202,7 +5202,7 @@
 
 -lexeme
  lex: лама
- stem: лама.|лама.//ламо.
+ stem: лама.//ламо.
  gramm: A
  paradigm: A-vowel
  trans_ru: многий

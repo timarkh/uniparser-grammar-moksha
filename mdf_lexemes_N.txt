@@ -34384,7 +34384,7 @@
 
 -lexeme
  lex: класс
- stem: класс.
+ stem: класс.|класс.//клас.
  gramm: N,rus
  paradigm: N-consonant
  trans_ru: класс
@@ -48810,6 +48810,13 @@
  trans_ru: мокшанка
 
 -lexeme
+ lex: мокшаля
+ stem: мокшаля.
+ gramm: N,anim,hum
+ paradigm: N-vowel
+ trans_ru: мокша, мокшанин
+
+-lexeme
  lex: мокшан
  stem: мокшан.|мокшан.//мокшат.
  gramm: N,anim
@@ -60130,9 +60137,9 @@
 
 -lexeme
  lex: перепись
- stem: перепись.
+ stem: перепис.
  gramm: N,rus
- paradigm: N-vowel
+ paradigm: N-front-soft
  trans_ru: перепись
 
 -lexeme
@@ -107090,4 +107097,18 @@
  gramm: N,dim
  paradigm: N-vowel
  trans_ru: огрех
+
+-lexeme
+ lex: озксвяти
+ stem: озксвяти.
+ gramm: N,anim,hum
+ paradigm: N-iy
+ trans_ru: священник
+
+-lexeme
+ lex: видексши
+ stem: видексши.
+ gramm: N,anim,hum
+ paradigm: N-iy
+ trans_ru: праведность
 

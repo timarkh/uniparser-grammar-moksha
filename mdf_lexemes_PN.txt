@@ -66665,3 +66665,18 @@
  gramm: N,PN,famn
  paradigm: N-vowel
  trans_ru: Кубанцева
+
+-lexeme
+ lex: Умарина
+ stem: умарина.
+ gramm: N,PN
+ paradigm: N-vowel
+ trans_ru: ансамбль "Умарина" ("Яблоня")
+
+-lexeme
+ lex: Атерь
+ stem: атер.|атерьх.
+ gramm: N,PN,topn
+ paradigm: N-front-soft
+ trans_ru: Атюрьево
+
