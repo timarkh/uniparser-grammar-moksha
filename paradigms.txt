@@ -230,6 +230,11 @@
   gramm: pl,def
   gloss: PL.DEF
   paradigm: N-case_def_pl
+ -flex: <1>.не<.>//<1>.ьне<.>
+  gramm: pl,def
+  gloss: PL.DEF
+  regex-prev: .*[^аеёиоуыэюядтн][<>.]*$
+  paradigm: N-case_def_pl
 
 -paradigm: N-vowel-ma
  -flex: .<.>

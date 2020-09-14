@@ -4228,7 +4228,7 @@
 
 -lexeme
  lex: аржа
- stem: аржа.|аржа.//арже.
+ stem: аржа.|аржа.//арже.//арч.
  gramm: N
  paradigm: N-vowel
  trans_ru: зазубрина
@@ -6636,7 +6636,7 @@
 
 -lexeme
  lex: баржа
- stem: баржа.|баржа.//барже.
+ stem: баржа.|баржа.//барже.//барч.
  gramm: N,rus,transport
  paradigm: N-vowel
  trans_ru: баржа
@@ -8001,7 +8001,7 @@
 
 -lexeme
  lex: биржа
- stem: биржа.|биржа.//бирже.
+ stem: биржа.|биржа.//бирже.//бирч.
  gramm: N,rus
  paradigm: N-vowel
  trans_ru: биржа
@@ -10780,7 +10780,7 @@
 
 -lexeme
  lex: вайгенже
- stem: вайгенже.
+ stem: вайгенже.|вайгенже.//вайгенч.
  gramm: N,body
  paradigm: N-vowel
  trans_ru: основание ногтя
@@ -12712,7 +12712,7 @@
 
 -lexeme
  lex: ведюнжа
- stem: ведюнжа.|ведюнжа.//ведюнже.
+ stem: ведюнжа.|ведюнжа.//ведюнже.//ведюнч.
  gramm: N
  paradigm: N-vowel
  trans_ru: вертячка
@@ -27545,7 +27545,7 @@
 
 -lexeme
  lex: инжа
- stem: инжа.|инжа.//инже.
+ stem: инжа.|инжа.//инже.//инч.
  gramm: N,anim
  paradigm: N-vowel
  trans_ru: жук; паук
@@ -32774,14 +32774,14 @@
 
 -lexeme
  lex: кенже
- stem: кенже.
+ stem: кенже.|кенже.//кенч.
  gramm: N
  paradigm: N-vowel
  trans_ru: вышивка на подоле женской рубахи
 
 -lexeme
  lex: кенже
- stem: кенже.
+ stem: кенже.|кенже.//кенч.
  gramm: N,body
  paradigm: N-vowel
  trans_ru: ноготь
@@ -38766,7 +38766,7 @@
 
 -lexeme
  lex: кржа
- stem: кржа.|кржа.//крже.
+ stem: кржа.|кржа.//крже.//крч.
  gramm: N
  paradigm: N-vowel
  trans_ru: самое малое
@@ -41181,7 +41181,7 @@
 
 -lexeme
  lex: лавжа
- stem: лавжа.|лавжа.//лавже.
+ stem: лавжа.|лавжа.//лавже.//лавч.
  gramm: N
  paradigm: N-vowel
  trans_ru: ценовная дощечка
@@ -55608,7 +55608,7 @@
 
 -lexeme
  lex: оранжа
- stem: оранжа.|оранжа.//оранже.
+ stem: оранжа.|оранжа.//оранже.//оранч.
  gramm: N
  paradigm: N-vowel
  trans_ru: нагрудное украшение
@@ -55776,7 +55776,7 @@
 
 -lexeme
  lex: оржа
- stem: оржа.|оржа.//орже.
+ stem: оржа.|оржа.//орже.//орч.
  gramm: N
  paradigm: N-vowel
  trans_ru: лезвие
@@ -57715,7 +57715,7 @@
 
 -lexeme
  lex: панжа
- stem: панжа.|панжа.//панже.
+ stem: панжа.|панжа.//панже.//панч.
  gramm: N
  paradigm: N-vowel
  trans_ru: панжа -- старинное лёгкое платье
@@ -58107,7 +58107,7 @@
 
 -lexeme
  lex: паранджа
- stem: паранджа.|паранджа.//парандже.
+ stem: паранджа.|паранджа.//парандже.//парандч.
  gramm: N,rus
  paradigm: N-vowel
  trans_ru: паранджа
@@ -70469,7 +70469,7 @@
 
 -lexeme
  lex: пълманжа
- stem: пълманжа.|пълманжа.//пълманже.
+ stem: пълманжа.|пълманжа.//пълманже.//пълманч.
  gramm: N,body
  paradigm: N-vowel
  trans_ru: голень
@@ -76125,7 +76125,7 @@
 
 -lexeme
  lex: саржа
- stem: саржа.|саржа.//сарже.
+ stem: саржа.|саржа.//сарже.//сарч.
  gramm: N
  paradigm: N-vowel
  trans_ru: саржа
@@ -92372,7 +92372,7 @@
 
 -lexeme
  lex: унжа
- stem: унжа.|унжа.//унже.
+ stem: унжа.|унжа.//унже.//унч.
  gramm: N,anim
  paradigm: N-vowel
  trans_ru: жук; паук
@@ -100625,7 +100625,7 @@
 
 -lexeme
  lex: шанжа
- stem: шанжа.|шанжа.//шанже.
+ stem: шанжа.|шанжа.//шанже.//шанч.
  gramm: N,anim
  paradigm: N-vowel
  trans_ru: муравей
@@ -100800,7 +100800,7 @@
 
 -lexeme
  lex: шаржа
- stem: шаржа.|шаржа.//шарже.
+ stem: шаржа.|шаржа.//шарже.//шарч.
  gramm: N
  paradigm: N-vowel
  trans_ru: седина
