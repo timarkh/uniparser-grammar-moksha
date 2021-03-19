@@ -106,7 +106,7 @@ def parse_wordlists():
     Analyze wordlists/wordlist.csv.
     """
     from uniparser_moksha import MokshaAnalyzer
-    a = MokshaAnalyzer(mode='strict')
+    a = MokshaAnalyzer(mode='nodiacritics')
     a.analyze_wordlist(freqListFile='wordlists/wordlist_main.csv',
                        parsedFile='wordlists/wordlist_analyzed.txt',
                        unparsedFile='wordlists/wordlist_unanalyzed.txt',

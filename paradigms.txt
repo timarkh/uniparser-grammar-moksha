@@ -639,7 +639,7 @@
  -flex: .га<.>//.ге<.>//<1>.ева<.>
   gramm: prol
   gloss: PROL
-  paradigm: N-poss-vowel
+  paradigm: N-poss-after-case
  -flex: .ка<.>
   gramm: prol
   gloss: PROL
@@ -741,7 +741,7 @@
  -flex: .[ь]сто<.>
   gramm: el
   gloss: EL
-  paradigm: N-poss-vowel
+  paradigm: N-poss-after-case
  -flex: .[ь]цто<.>
   gramm: el
   gloss: EL
