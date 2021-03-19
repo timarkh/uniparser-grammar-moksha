@@ -6791,7 +6791,7 @@
 
 -lexeme
  lex: кельгомс
- stem: кельг.
+ stem: кельг.|кельк.
  gramm: V,tr
  paradigm: V-o
  trans_ru: любить

@@ -1,0 +1,4 @@
+include uniparser_moksha/data_strict/*.txt
+include uniparser_moksha/data_nodiacritics/*.txt
+include uniparser_moksha/data_strict/*.cg3
+include uniparser_moksha/data_nodiacritics/*.cg3
